@@ -1393,7 +1393,7 @@ export const AMERICAS_INDIA_MIDEAST: Recipe[] = [
     difficulty: 'hard',
     keepsDays: 3,
     name: { en: 'Chicken tikka masala', ro: 'Pui tikka masala' },
-    lines: [['chicken-breast', 170], ['greek-yogurt', 50], ['lemon', 10], ['garlic', 6], ['ginger', 6], ['paprika', 4], ['cumin', 2], ['sunflower-oil', 10], ['onion', 100], ['jalapeno', 6], ['tomato-paste', 15], ['canned-tomatoes', 130], ['cream', 20], ['butter', 5], ['rice', 65], ['cilantro', 4]],
+    lines: [['chicken-breast', 170], ['greek-yogurt', 50], ['lemon', 10], ['garlic', 6], ['ginger', 6], ['paprika', 4], ['cumin', 2], ['sunflower-oil', 10], ['onion', 30], ['jalapeno', 6], ['tomato-paste', 15], ['canned-tomatoes', 130], ['cream', 20], ['butter', 5], ['rice', 65], ['cilantro', 4]],
     extras: [
       { en: 'salt and a pinch of sugar', ro: 'sare și un praf de zahăr' },
       { en: '¼ tsp hot chilli powder, ¼ tsp ground turmeric, ½ tsp ground coriander and ½ tsp garam masala per serving', ro: '¼ linguriță de praf de chili iute, ¼ linguriță de turmeric, ½ linguriță de coriandru măcinat și ½ linguriță de garam masala la porție' },
@@ -1482,7 +1482,7 @@ export const AMERICAS_INDIA_MIDEAST: Recipe[] = [
     difficulty: 'easy',
     keepsDays: 1,
     name: { en: 'Çılbır — Turkish poached eggs on garlic yogurt with chilli butter', ro: 'Ouă turcești (çılbır) pe iaurt cu usturoi și unt cu boia' },
-    lines: [['greek-yogurt', 150], ['garlic', 3], ['eggs', 110], ['vinegar', 5], ['butter', 12], ['paprika', 2], ['pul-biber', 1], ['dill', 3], ['wholegrain-bread', 70]],
+    lines: [['greek-yogurt', 150], ['garlic', 3], ['eggs', 110], ['vinegar', 5], ['butter', 28], ['paprika', 2], ['pul-biber', 1], ['dill', 3], ['wholegrain-bread', 70]],
     extras: [
       { en: 'salt', ro: 'sare' },
       { en: 'a pinch of dried mint', ro: 'un praf de mentă uscată' },
@@ -1492,13 +1492,13 @@ export const AMERICAS_INDIA_MIDEAST: Recipe[] = [
       en: [
         'Take the yogurt out of the fridge first — it should be at room temperature, not fridge-cold, under the hot eggs. Stir in the finely grated garlic and a good pinch of salt and spread it in a shallow bowl.',
         'Bring a wide pan of water to a gentle simmer and add 1 tsp (5 ml) vinegar. Crack each egg into a cup, stir the water into a slow whirlpool and slip the egg into the middle. Poach for 3 minutes, until the whites are set and the yolks still runny. Lift out with a slotted spoon and drain on kitchen paper.',
-        'Melt 1 tbsp (12 g) butter in a small pan over medium heat until it foams and smells nutty. Take it off the heat and stir in 1 tsp (2 g) paprika, ½ tsp (1 g) pul biber and a pinch of dried mint — they should sizzle and turn the butter red, but not burn.',
+        'Melt 2 tbsp (28 g) butter in a small pan over medium heat until it foams and smells nutty. Take it off the heat and stir in 1 tsp (2 g) paprika, ½ tsp (1 g) pul biber and a pinch of dried mint — they should sizzle and turn the butter red, but not burn.',
         'Set the eggs on the yogurt, spoon the red butter over, scatter with dill and serve with toasted bread for dipping.',
       ],
       ro: [
         'Scoate iaurtul din frigider de la început — sub ouăle fierbinți trebuie să fie la temperatura camerei, nu rece. Amestecă-l cu usturoiul ras fin și un praf bun de sare și întinde-l într-un bol larg.',
         'Adu o cratiță largă cu apă la un clocot ușor și adaugă 1 linguriță (5 ml) de oțet. Sparge fiecare ou într-o ceașcă, rotește apa ca să faci un vârtej lent și lasă oul să alunece în mijloc. Fierbe-l 3 minute, până albușul se încheagă, iar gălbenușul rămâne moale. Scoate-l cu spumiera și scurge-l pe hârtie de bucătărie.',
-        'Topește 1 lingură (12 g) unt într-o tigaie mică, la foc mediu, până face spumă și miroase a alune. Ia-l de pe foc și adaugă 1 linguriță (2 g) boia, ½ linguriță (1 g) pul biber și un vârf de mentă uscată — trebuie să sfârâie și să coloreze untul în roșu, dar să nu se ardă.',
+        'Topește 2 linguri (28 g) unt într-o tigaie mică, la foc mediu, până face spumă și miroase a alune. Ia-l de pe foc și adaugă 1 linguriță (2 g) boia, ½ linguriță (1 g) pul biber și un vârf de mentă uscată — trebuie să sfârâie și să coloreze untul în roșu, dar să nu se ardă.',
         'Așază ouăle pe iaurt, toarnă untul roșu deasupra, presară mărar și servește cu pâine prăjită, pentru înmuiat.',
       ],
     },
@@ -1518,7 +1518,7 @@ export const AMERICAS_INDIA_MIDEAST: Recipe[] = [
     difficulty: 'easy',
     keepsDays: 1,
     name: { en: 'Shakshuka with feta and herbs', ro: 'Shakshuka cu feta și verdeață' },
-    lines: [['olive-oil', 10], ['onion', 60], ['bell-pepper', 100], ['garlic', 5], ['jalapeno', 6], ['cumin', 2], ['paprika', 3], ['tomato-paste', 10], ['canned-tomatoes', 200], ['eggs', 165], ['feta', 30], ['parsley', 4], ['cilantro', 3], ['wholegrain-bread', 70]],
+    lines: [['olive-oil', 10], ['onion', 60], ['bell-pepper', 25], ['garlic', 5], ['jalapeno', 6], ['cumin', 2], ['paprika', 3], ['tomato-paste', 10], ['canned-tomatoes', 200], ['eggs', 165], ['feta', 30], ['parsley', 4], ['cilantro', 3], ['wholegrain-bread', 70]],
     extras: [
       { en: 'salt and black pepper', ro: 'sare și piper' },
       { en: 'a pinch of sugar, if the tomatoes are sharp', ro: 'un praf de zahăr, dacă roșiile sunt acre' },
@@ -1593,7 +1593,7 @@ export const AMERICAS_INDIA_MIDEAST: Recipe[] = [
     difficulty: 'easy',
     keepsDays: 4,
     name: { en: 'Silky homemade hummus with carrot and cucumber sticks', ro: 'Humus de casă, fin, cu bețe de morcov și castravete' },
-    lines: [['tahini', 18], ['lemon', 8], ['garlic', 2], ['chickpeas', 60], ['cumin', 0.5], ['olive-oil', 4], ['paprika', 0.5], ['carrot', 100], ['cucumber', 80]],
+    lines: [['tahini', 18], ['lemon', 8], ['garlic', 2], ['chickpeas', 120], ['cumin', 0.5], ['olive-oil', 4], ['paprika', 0.5], ['carrot', 100], ['cucumber', 80]],
     extras: [
       { en: 'salt', ro: 'sare' },
       { en: '2 tbsp ice-cold water per serving', ro: '2 linguri de apă cu gheață la porție' },
@@ -1782,7 +1782,7 @@ export const AMERICAS_INDIA_MIDEAST: Recipe[] = [
     difficulty: 'easy',
     keepsDays: 4,
     name: { en: 'Mercimek — Turkish red lentil soup with chilli butter', ro: 'Mercimek çorbası — supă turcească de linte roșie' },
-    lines: [['butter', 10], ['olive-oil', 5], ['onion', 70], ['carrot', 60], ['potato', 60], ['garlic', 4], ['cumin', 2], ['tomato-paste', 15], ['red-lentils', 80], ['paprika', 2], ['pul-biber', 1], ['parsley', 3], ['lemon', 20], ['wholegrain-bread', 50]],
+    lines: [['butter', 10], ['olive-oil', 5], ['onion', 70], ['carrot', 25], ['potato', 25], ['garlic', 4], ['cumin', 2], ['tomato-paste', 15], ['red-lentils', 80], ['paprika', 2], ['pul-biber', 1], ['parsley', 3], ['lemon', 20], ['wholegrain-bread', 50]],
     extras: [
       { en: 'salt and black pepper', ro: 'sare și piper' },
       { en: 'a vegetable stock cube (about ½ per 2 servings)', ro: 'un cub de supă de legume (cam ½ la 2 porții)' },

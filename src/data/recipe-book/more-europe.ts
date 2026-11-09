@@ -578,19 +578,19 @@ export const MORE_EUROPE: Recipe[] = [
     difficulty: 'easy',
     keepsDays: 2,
     name: { en: 'Tuna and white bean salad', ro: 'Salată de ton cu fasole albă' },
-    lines: [['tuna', 120], ['white-beans', 150], ['red-onion', 20], ['vinegar', 3], ['cherry-tomato', 100], ['cucumber', 60], ['parsley', 10], ['lemon', 15], ['olive-oil', 15]],
+    lines: [['tuna', 120], ['white-beans', 150], ['red-onion', 20], ['vinegar', 3], ['cherry-tomato', 100], ['cucumber', 60], ['parsley', 10], ['dill', 3], ['lemon', 15], ['olive-oil', 15]],
     extras: [{ en: 'salt and black pepper', ro: 'sare și piper' }],
     steps: {
       en: [
         'Slice the red onion thinly and soak it in the vinegar (about ½ tsp) for 10 minutes.',
-        'Halve the cherry tomatoes, dice the cucumber and chop the parsley (about 2 tbsp).',
+        'Halve the cherry tomatoes, dice the cucumber and chop the parsley and dill (about 2 tbsp of each).',
         'Drain the beans and the tuna. Flake the tuna gently with a fork.',
         'Whisk the juice of the lemon (about 1 tbsp) with the olive oil (about 1 tbsp, 15 ml), salt and pepper.',
         'Combine everything in a bowl with the drained onion, toss gently and rest for 5 minutes before serving.',
       ],
       ro: [
         'Taie ceapa roșie foarte subțire și lasă-o 10 minute în oțet (cam ½ linguriță).',
-        'Taie roșiile cherry în jumătăți, castraveții cubuleț și toacă pătrunjelul (cam 2 linguri).',
+        'Taie roșiile cherry în jumătăți, castraveții cubuleț și toacă pătrunjelul și mărarul (cam 2 linguri din fiecare).',
         'Scurge fasolea și tonul. Desfă tonul ușor cu furculița.',
         'Bate sucul de lămâie (cam 1 lingură) cu uleiul de măsline (cam 1 lingură, 15 ml), sare și piper.',
         'Amestecă totul într-un bol cu ceapa scursă, răsturnând ușor, și lasă 5 minute înainte de servire.',
@@ -672,7 +672,7 @@ export const MORE_EUROPE: Recipe[] = [
     difficulty: 'easy',
     keepsDays: 4,
     name: { en: 'Andalusian chickpea and spinach stew (espinacas con garbanzos)', ro: 'Năut cu spanac în stil andaluz (espinacas con garbanzos)' },
-    lines: [['chickpeas', 150], ['spinach', 150], ['onion', 40], ['garlic', 3], ['olive-oil', 15], ['white-bread', 25], ['almonds', 10], ['cumin', 1], ['smoked-paprika', 2]],
+    lines: [['chickpeas', 150], ['spinach', 150], ['onion', 40], ['garlic', 3], ['olive-oil', 15], ['white-bread', 25], ['almonds', 10], ['canned-tomatoes', 100], ['cumin', 1], ['smoked-paprika', 2]],
     extras: [
       { en: 'salt and black pepper', ro: 'sare și piper' },
       { en: 'about 200 ml water per serving', ro: 'circa 200 ml apă la porție' },
@@ -681,14 +681,14 @@ export const MORE_EUROPE: Recipe[] = [
       en: [
         'Toast the bread slices in a dry pan until golden. Pound them in a mortar (or blitz) with the almonds (about 1 tbsp), the garlic and a splash (about 1 tbsp, 15 ml) of water to a thick paste.',
         'Heat the oil (about 1 tbsp, 13 ml) in a wide pot and cook the finely chopped onion over medium heat for 10 minutes until soft and golden.',
-        'Stir in the cumin (⅓ tsp, 1 g) and smoked paprika (1 tsp, 2 g) for 30 seconds, then add the drained chickpeas and the water. Simmer for 10 minutes.',
+        'Stir in the cumin (⅓ tsp, 1 g) and smoked paprika (1 tsp, 2 g) for 30 seconds, then add the drained chickpeas, the chopped tomatoes (about 100 g) and the water. Simmer for 10 minutes.',
         'Stir in the bread and almond paste and simmer 5 minutes until the stew thickens.',
         'Add the spinach in handfuls and stir until wilted, about 3 minutes. Season with salt and pepper and serve warm or at room temperature.',
       ],
       ro: [
         'Prăjește feliile de pâine într-o tigaie uscată până se rumenesc. Pisează-le într-un mojar (sau mixează) cu migdalele (cam 1 lingură), usturoiul și un strop (cam 1 lingură, 15 ml) de apă, până obții o pastă groasă.',
         'Încinge uleiul (cam 1 lingură, 13 ml) într-o oală largă și călește ceapa tocată mărunt la foc mediu, 10 minute, până devine moale și aurie.',
-        'Adaugă chimionul (⅓ linguriță, 1 g) și boia afumată (1 linguriță, 2 g) 30 de secunde, apoi năutul scurs și apa. Fierbe 10 minute.',
+        'Adaugă chimionul (⅓ linguriță, 1 g) și boia afumată (1 linguriță, 2 g) 30 de secunde, apoi năutul scurs, roșiile tocate (cam 100 g) și apa. Fierbe 10 minute.',
         'Amestecă pasta de pâine și migdale și fierbe 5 minute, până sosul se îngroașă.',
         'Adaugă spanacul pe porții și amestecă până se ofilește, circa 3 minute. Condimentează cu sare și piper și servește caldă sau la temperatura camerei.',
       ],

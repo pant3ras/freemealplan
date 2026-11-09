@@ -938,7 +938,7 @@ export const ITALIAN_GREEK_MED: Recipe[] = [
     steps: {
       en: [
         'Slice the aubergines lengthways about 1 cm thick. Salt both sides and leave them in a colander for 30 minutes, then pat dry. This draws out bitterness and water, so they soak up less oil.',
-        'Heat the oven to 220 °C. Peel the potatoes and slice them 5 mm thick. Lay the aubergine and potato slices on lined trays, brush with two-thirds of the oil (about 2 tsp, 8 ml) and roast for 20–25 minutes, turning once, until golden and soft. Roasting, rather than frying, keeps it lighter but still silky.',
+        'Heat the oven to 220 °C. Peel the potatoes and slice them 5 mm thick. Boil the potato slices for 2 minutes in lightly salted water, drain, plunge into iced water and pat dry. Lay the aubergine slices on lined trays, brush with two-thirds of the oil (about 2 tsp, 8 ml) and roast for 20–25 minutes, turning once, until golden and soft. Roasting, rather than frying, keeps it lighter but still silky.',
         'Meanwhile, heat the remaining oil (about 1 tsp, 4 ml) in a wide pan over high heat and brown the mince well, 8–10 minutes, until crusty and the liquid has gone. Add the finely chopped onion and cook for 5 minutes, then the garlic, cinnamon (½ tsp) and allspice for a minute, until fragrant.',
         'Stir in the tomato paste (2 tsp, 10 g) for 1–2 minutes, deglaze with the red wine (about 2 tbsp, 30 ml) and let it bubble away, then add a splash (about 1 tbsp, 15 ml) of water and the tomatoes, bay leaf and a small glass of water. Simmer uncovered for 20–25 minutes, until thick enough that a spoon dragged through it leaves a dry trail. Season, stir in the parsley and remove the bay leaf.',
         'For the béchamel, melt the butter (about ¾ tbsp, 10 g), whisk in the flour (1½ tbsp, 12 g) and cook for 1–2 minutes without colouring. Gradually whisk in the warmed milk and simmer for 5 minutes, stirring, until it is as thick as custard.',
@@ -950,7 +950,7 @@ export const ITALIAN_GREEK_MED: Recipe[] = [
       ],
       ro: [
         'Taie vinetele pe lungime, felii de cam 1 cm. Sărează-le pe ambele părți și lasă-le într-o strecurătoare 30 de minute, apoi șterge-le. Așa își pierd amăreala și apă și absorb mai puțin ulei.',
-        'Încinge cuptorul la 220 °C. Curăță cartofii și taie-i felii de 5 mm. Așază feliile de vinete și de cartof pe tăvi tapetate cu hârtie de copt, unge-le cu două treimi din ulei (cam 2 lingurițe, 8 ml) și coace-le 20–25 de minute, întorcându-le o dată, până devin aurii și moi. Coapte, nu prăjite, rămân mai ușoare, dar tot mătăsoase.',
+        'Încinge cuptorul la 220 °C. Curăță cartofii și taie-i felii de 5 mm. Fierbe feliile de cartof 2 minute în apă ușor sărată, scurge-le, trece-le prin apă cu gheață și șterge-le. Așază feliile de vinete pe tăvi tapetate cu hârtie de copt, unge-le cu două treimi din ulei (cam 2 lingurițe, 8 ml) și coace-le 20–25 de minute, întorcându-le o dată, până devin aurii și moi. Coapte, nu prăjite, rămân mai ușoare, dar tot mătăsoase.',
         'Între timp încinge restul de ulei (cam 1 linguriță, 4 ml) într-o tigaie largă, la foc mare, și rumenește bine carnea tocată 8–10 minute, până face crustă și se evaporă lichidul. Adaugă ceapă tocată mărunt și călește 5 minute, apoi usturoiul, scorțișoara (½ linguriță) și ienibaharul încă un minut, până miros.',
         'Adaugă pasta de roșii (2 lingurițe, 10 g) și călește 1–2 minute, stinge cu vin roșu (cam 2 linguri, 30 ml), lasă-l să clocotească, apoi adaugă un strop (cam 1 lingură, 15 ml) de apă și pune roșiile, frunza de dafin și un pahar mic de apă. Fierbe fără capac 20–25 de minute, până se îngroașă atât încât lingură trasă prin sos lasă o dâră uscată. Potrivește de gust, adaugă pătrunjelul și scoate frunza de dafin.',
         'Pentru sosul bechamel, topește untul (cam ¾ lingură, 10 g), adaugă făina (cam 1½ linguri, 12 g) amestecând cu telul și călește 1–2 minute, fără să se coloreze. Toarnă treptat laptele încălzit, amestecând continuu, și fierbe 5 minute, până devine gros ca o cremă de budincă.',
@@ -1140,7 +1140,7 @@ export const ITALIAN_GREEK_MED: Recipe[] = [
     difficulty: 'hard',
     keepsDays: 3,
     name: { en: 'Spanakopita with filo, spinach and feta', ro: 'Spanakopita cu foi de filo, spanac și feta' },
-    lines: [['filo-pastry', 60], ['olive-oil', 15], ['spinach', 180], ['leek', 60], ['spring-onion', 20], ['feta', 60], ['cottage-cheese', 80], ['eggs', 40], ['dill', 6], ['parsley', 5]],
+    lines: [['filo-pastry', 60], ['olive-oil', 15], ['spinach', 80], ['leek', 60], ['spring-onion', 20], ['feta', 60], ['cottage-cheese', 40], ['eggs', 15], ['dill', 6], ['parsley', 5]],
     extras: [
       { en: 'salt and black pepper', ro: 'sare și piper' },
       { en: 'a pinch of grated nutmeg', ro: 'un praf de nucșoară rasă' },
@@ -1156,7 +1156,7 @@ export const ITALIAN_GREEK_MED: Recipe[] = [
         'Lay one sheet of filo in the tin, letting it hang over the sides, and brush it with oil. Repeat until you have about 5 sheets, brushing each one.',
         'Spread the filling evenly over the pastry.',
         'Lay 2–3 more sheets on top, brushing each one with oil. Fold the overhang over and pinch it to seal. Brush the top generously with the remaining oil and flick over a few drops of water, which helps it crisp. Score it into portions through the top layer only.',
-        'Bake for 45–50 minutes, until deep golden and crisp all over; the base should sound hollow when you tap the tin.',
+        'Bake for 55–60 minutes, until deep golden and crisp all over; the base should sound hollow when you tap the tin.',
         'Let it rest for 15–20 minutes before cutting so the filling sets. It’s just as good warm or at room temperature.',
       ],
       ro: [
@@ -1168,7 +1168,7 @@ export const ITALIAN_GREEK_MED: Recipe[] = [
         'Pune o foaie de filo în tavă, lăsând-o să atârne peste margini, și unge-o cu ulei. Repetă până ai cam 5 foi, ungând fiecare.',
         'Întinde umplutura uniform peste foi.',
         'Pune deasupra 2–3 foi, ungând fiecare cu ulei. Pliază peste ea marginile care atârnă și ciupește-le ca să se lipească. Unge generos fața cu restul de ulei și stropește-o cu câteva picături de apă, care o ajută să devină crocantă. Crestează porțiile doar prin foaia de deasupra.',
-        'Coace 45–50 de minute, până devine aurie-închis și crocantă peste tot; blatul de dedesubt trebuie să sune a gol când bați în tavă.',
+        'Coace 55–60 de minute, până devine aurie-închis și crocantă peste tot; blatul de dedesubt trebuie să sune a gol când bați în tavă.',
         'Las-o 15–20 de minute înainte s-o tai, ca să se lege umplutura. E la fel de bună caldă sau la temperatura camerei.',
       ],
     },

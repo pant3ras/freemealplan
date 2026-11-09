@@ -1441,16 +1441,16 @@ export const ASIAN: Recipe[] = [
     difficulty: 'hard',
     keepsDays: 2,
     name: { en: 'Bibimbap with crispy rice and spicy sauce', ro: 'Bibimbap cu orez crocant și sos picant' },
-    lines: [['beef-mince', 100], ['rice', 75], ['eggs', 55], ['spinach', 100], ['carrot', 50], ['zucchini', 80], ['mushrooms', 60], ['kimchi', 30], ['garlic', 6], ['soy-sauce', 15], ['sesame-oil', 6], ['sugar', 3], ['honey', 8], ['chili-flakes', 3], ['gochujang', 15], ['vinegar', 4], ['sunflower-oil', 6]],
+    lines: [['beef-mince', 100], ['rice', 75], ['eggs', 55], ['spinach', 100], ['carrot', 50], ['zucchini', 80], ['mushrooms', 60], ['kimchi', 30], ['garlic', 6], ['soy-sauce', 15], ['sesame-oil', 6], ['sugar', 3], ['honey', 8], ['chili-flakes', 3], ['gochujang', 30], ['vinegar', 4], ['sunflower-oil', 6]],
     extras: [
-      { en: 'gochujang (Korean chilli paste) — if you can’t find it: 1 tbsp tomato paste + ½ tsp more chilli flakes', ro: 'gochujang (pastă coreeană de chili) — dacă nu găsești: 1 lingură de pastă de roșii + ½ linguriță de fulgi de chili în plus' },
+      { en: 'gochujang (Korean chilli paste) — if you can’t find it: 2 tbsp tomato paste + ½ tsp more chilli flakes', ro: 'gochujang (pastă coreeană de chili) — dacă nu găsești: 2 linguri de pastă de roșii + ½ linguriță de fulgi de chili în plus' },
       { en: 'kimchi — if you can’t find it: sauerkraut, chopped and rinsed once', ro: 'kimchi — dacă nu găsești: varză murată, tocată și clătită o dată' },
       { en: 'salt', ro: 'sare' },
     ],
     steps: {
       en: [
         'Rinse and cook the rice; it should be on the firm side.',
-        'Make the spicy sauce: mix most of the chilli flakes with the gochujang (1 tbsp, 15 g), the honey (1½ tsp), a third of the soy sauce (about 1½ tsp), the vinegar (1 tsp), about ½ tsp of the sesame oil and a little water into a thick, glossy paste. It should be sweet, hot and savoury.',
+        'Make the spicy sauce: mix most of the chilli flakes with the gochujang (2 tbsp, 30 g), the honey (1½ tsp), a third of the soy sauce (about 1½ tsp), the vinegar (1 tsp), about ½ tsp of the sesame oil and a little water into a thick, glossy paste. It should be sweet, hot and savoury.',
         'Season the beef with a splash (about 1 tsp) of soy sauce, the sugar (¾ tsp) and half the garlic (½ clove), grated. Fry it in a little (about 1 tsp) of the sunflower oil over high heat, breaking it up, until browned and slightly crisp; set aside.',
         'Blanch the spinach for 20 seconds, cool it under the tap and squeeze it hard. Toss with a pinch of salt, a little garlic and about ½ tsp of sesame oil.',
         'Cut the carrot and courgette into matchsticks. Stir-fry each separately in a drop of oil with a pinch of salt for 1–2 minutes — they should soften but stay bright.',
@@ -1463,7 +1463,7 @@ export const ASIAN: Recipe[] = [
       ],
       ro: [
         'Spală și fierbe orezul; trebuie să rămână mai degrabă ferm.',
-        'Fă sosul picant: amestecă cea mai mare parte din fulgii de chili cu gochujangul (1 lingură, 15 g), mierea (1½ linguriță), o treime din sosul de soia (cam 1½ linguriță), oțetul (1 linguriță), cam ½ linguriță de ulei de susan și puțină apă, până obții o pastă groasă și lucioasă. Trebuie să fie dulce, iute și savuroasă.',
+        'Fă sosul picant: amestecă cea mai mare parte din fulgii de chili cu gochujangul (2 linguri, 30 g), mierea (1½ linguriță), o treime din sosul de soia (cam 1½ linguriță), oțetul (1 linguriță), cam ½ linguriță de ulei de susan și puțină apă, până obții o pastă groasă și lucioasă. Trebuie să fie dulce, iute și savuroasă.',
         'Condimentează carnea cu un strop (cam 1 linguriță) de sos de soia, zahărul (¾ de linguriță) și jumătate din usturoi (½ cățel), ras. Prăjește-o în puțin ulei de floarea-soarelui (cam 1 linguriță) la foc mare, fărâmițând-o, până se rumenește și devine ușor crocantă; pune-o deoparte.',
         'Opărește spanacul 20 de secunde, răcește-l sub jet de apă și stoarce-l bine. Amestecă-l cu un praf de sare, puțin usturoi și cam ½ linguriță de ulei de susan.',
         'Taie morcovul și dovlecelul bețișoare. Sotează-le separat, fiecare cu o picătură de ulei și un praf de sare, 1–2 minute — trebuie să se înmoaie, dar să-și păstreze culoarea.',
@@ -1491,7 +1491,7 @@ export const ASIAN: Recipe[] = [
     difficulty: 'medium',
     keepsDays: 3,
     name: { en: 'Beef bulgogi bowl with lettuce wraps', ro: 'Bol cu vită bulgogi și frunze de salată' },
-    lines: [['beef-steak', 160], ['korean-pear', 40], ['onion', 50], ['garlic', 6], ['ginger', 4], ['soy-sauce', 20], ['sugar', 5], ['honey', 5], ['sesame-oil', 5], ['spring-onion', 15], ['rice', 70], ['cucumber', 80], ['vinegar', 5], ['chili-flakes', 1], ['carrot', 40], ['lettuce', 40], ['sunflower-oil', 5]],
+    lines: [['beef-steak', 160], ['korean-pear', 40], ['onion', 15], ['garlic', 6], ['ginger', 4], ['soy-sauce', 10], ['sugar', 5], ['honey', 5], ['sesame-oil', 5], ['spring-onion', 15], ['rice', 70], ['cucumber', 80], ['vinegar', 5], ['chili-flakes', 1], ['carrot', 15], ['lettuce', 40], ['sunflower-oil', 5]],
     extras: [
       { en: 'Korean pear (the traditional choice) — if you can’t find it: a small apple (about 40 g), grated', ro: 'pară coreeană (varianta tradițională) — dacă nu găsești: un măr mic (cam 40 g), ras' },
       { en: 'plenty of black pepper', ro: 'piper negru din belșug' },
@@ -1500,7 +1500,7 @@ export const ASIAN: Recipe[] = [
     steps: {
       en: [
         'Put the beef in the freezer for 30 minutes, then slice it paper-thin across the grain.',
-        'Grate the Korean pear (its enzymes tenderise the meat), the garlic (1 clove) and the ginger (about 1 tsp) into a bowl. Add the soy sauce (about 1 tbsp), sugar (1 tsp, 5 g), honey (1 tsp), sesame oil (1 tsp) and plenty of black pepper.',
+        'Grate the Korean pear (its enzymes tenderise the meat), the garlic (1 clove) and the ginger (about 1 tsp) into a bowl. Add the soy sauce (about 2 tsp), sugar (1 tsp, 5 g), honey (1 tsp), sesame oil (1 tsp) and plenty of black pepper.',
         'Slice the onion thinly and add it to the marinade with the beef; massage it in and leave for at least 1 hour (or up to a day in the fridge).',
         'Cook the rice. Slice the cucumber thinly and toss it with the vinegar (1 tsp), chilli flakes (about ½ tsp) and a pinch of salt and sugar; cut the carrot into matchsticks and separate the lettuce leaves.',
         'Heat a large frying pan or wok until smoking, add a little oil (about 1 tsp) and cook the beef in small batches, spreading it out and leaving it for a minute to caramelise before turning. Each batch takes 2–3 minutes; add the onion with the last batch.',
@@ -1509,7 +1509,7 @@ export const ASIAN: Recipe[] = [
       ],
       ro: [
         'Pune carnea în congelator 30 de minute, apoi taie-o felii foarte subțiri, perpendicular pe fibră.',
-        'Rade într-un bol pera coreeană (enzimele ei frăgezesc carnea), usturoiul (un cățel) și ghimbirul (cam 1 linguriță). Adaugă sosul de soia (cam 1 lingură), zahărul (1 linguriță, 5 g), mierea (1 linguriță), uleiul de susan (1 linguriță) și piper negru din belșug.',
+        'Rade într-un bol pera coreeană (enzimele ei frăgezesc carnea), usturoiul (un cățel) și ghimbirul (cam 1 linguriță). Adaugă sosul de soia (cam 2 lingurițe), zahărul (1 linguriță, 5 g), mierea (1 linguriță), uleiul de susan (1 linguriță) și piper negru din belșug.',
         'Taie ceapa felii subțiri și pune-o în marinadă împreună cu carnea; masează bine și lasă cel puțin 1 oră (sau până la o zi, în frigider).',
         'Fierbe orezul. Taie castravetele felii subțiri și amestecă-l cu oțetul (1 linguriță), fulgii de chili (cam ½ linguriță) și câte un praf de sare și zahăr; taie morcovul bețișoare și desparte frunzele de salată.',
         'Încinge o tigaie mare sau un wok până scoate fum, pune puțin ulei (cam 1 linguriță) și gătește carnea în tranșe mici, întinzând-o și lăsând-o un minut să se caramelizeze înainte s-o întorci. Fiecare tranșă durează 2–3 minute; adaugă ceapa la ultima tranșă.',
