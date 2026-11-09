@@ -205,7 +205,7 @@ export const MORE_AMERICAS: Recipe[] = [
     steps: {
       en: [
         'Finely slice the onion (about 60 g, 1 small) and cut 1 clove garlic into thin slivers. Heat 1 tsp (5 ml) oil in a pan over medium heat and cook the onion for 5 minutes, until soft. Add the garlic for 1 minute.',
-        'Add the tomatoes, 1 tbsp (15 g) chipotle in adobo, chopped, ¾ tsp (2 g) chilli flakes, 1 tsp (2 g) paprika, ½ tsp (1 g) cumin, 1 tsp (1 g) dried oregano, ½ tsp salt, a pinch of pepper and 150 ml water. Lay the whole chicken thighs in the sauce, cover and simmer gently for 15–20 minutes, until cooked through.',
+        'Add the tomatoes, 1 tbsp (15 g) chipotle in adobo, chopped, ¾ tsp (2 g) chilli flakes, 1 tsp (2 g) paprika, ½ tsp (1 g) cumin, 1 tsp (1 g) dried oregano, ½ tsp salt, a pinch of pepper and 150 ml water. Meanwhile, cut the chicken thighs into 2 cm pieces and brown them in a little oil in a separate hot pan for 5 minutes, then add them to the sauce, cover and simmer gently for 10 minutes, until cooked through.',
         'Lift the chicken onto a board and shred it with two forks. Simmer the sauce uncovered for 5 minutes to thicken, then blend half of it smooth if you like.',
         'Return the shredded chicken to the sauce and simmer 5 minutes more so it soaks up the flavour.',
         'Shred the cabbage finely and toss it with a squeeze of lime juice and a pinch of salt. Warm the tortillas in a dry pan.',
@@ -213,7 +213,7 @@ export const MORE_AMERICAS: Recipe[] = [
       ],
       ro: [
         'Taie ceapa (circa 60 g, una mică) felii subțiri și 1 cățel de usturoi în lamele subțiri. Încinge 1 linguriță (5 ml) ulei într-o tigaie la foc mediu și călește ceapa 5 minute, până se înmoaie. Adaugă usturoiul 1 minut.',
-        'Adaugă roșiile, 1 lingură (15 g) chipotle în adobo tocat, ¾ linguriță (2 g) fulgi de chili, 1 linguriță (2 g) boia, ½ linguriță (1 g) chimion măcinat, 1 linguriță (1 g) oregano uscat, ½ linguriță de sare, un praf de piper și 150 ml apă. Pune bucățile întregi de pulpe în sos, acoperă și fierbe încet 15–20 minute, până se fac complet.',
+        'Adaugă roșiile, 1 lingură (15 g) chipotle în adobo tocat, ¾ linguriță (2 g) fulgi de chili, 1 linguriță (2 g) boia, ½ linguriță (1 g) chimion măcinat, 1 linguriță (1 g) oregano uscat, ½ linguriță de sare, un praf de piper și 150 ml apă. Între timp, taie pulpele în bucăți de 2 cm și rumenește-le 5 minute într-un strop de ulei, într-o altă tigaie fierbinte, apoi pune-le în sos, acoperă și fierbe încet 10 minute, până se fac complet.',
         'Scoate puiul pe o planșetă și sfărâm-l cu două furculițe. Fierbe sosul descoperit 5 minute ca să se îngroașe, apoi, dacă vrei, pasează jumătate din el până devine fin.',
         'Pune înapoi puiul sfărâmat în sos și fierbe încă 5 minute, ca să absoarbă aromele.',
         'Taie varza foarte fin și amestec-o cu puțin suc de lime și un praf de sare. Încălzește tortilla într-o tigaie uscată.',
