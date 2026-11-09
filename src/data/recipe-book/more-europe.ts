@@ -132,7 +132,7 @@ export const MORE_EUROPE: Recipe[] = [
     difficulty: 'easy',
     keepsDays: 2,
     name: { en: 'Romanian cottage cheese pancakes with sour cream', ro: 'Clătite cu brânză de vaci și smântână' },
-    lines: [['eggs', 50], ['milk', 120], ['flour', 50], ['sugar', 10], ['sunflower-oil', 5], ['cottage-cheese', 120], ['lemon', 5], ['sour-cream', 20]],
+    lines: [['eggs', 75], ['milk', 120], ['flour', 50], ['sugar', 10], ['sunflower-oil', 5], ['cottage-cheese', 120], ['lemon', 5], ['sour-cream', 20]],
     extras: [
       { en: 'a pinch of salt', ro: 'un praf de sare' },
       { en: 'finely grated zest of the lemon', ro: 'coaja rasă fin de la lămâie' },
@@ -140,14 +140,14 @@ export const MORE_EUROPE: Recipe[] = [
     steps: {
       en: [
         'Whisk the egg, milk, 5 g (about 1 tsp) of the sugar and a pinch of salt. Whisk in the flour gradually until the batter is smooth and lump-free. Rest it for 15 minutes.',
-        'Mash the cottage cheese with the remaining 5 g (about 1 tsp) of sugar and the lemon zest until fairly smooth.',
+        'Mash the cottage cheese with the remaining 5 g (about 1 tsp) of sugar, the lemon zest and half a beaten egg (about 25 g) until fairly smooth.',
         'Heat a little of the oil (about 1 tsp, 5 ml) in a nonstick pan over medium heat, wipe it off with a paper towel and pour in a thin layer of batter. Cook about 1 minute per side until golden. Repeat with the rest of the batter; this makes about 8 pancakes.',
         'Spread a spoon of the cheese filling on each pancake, roll them up and serve two per person.',
         'Top with the sour cream (about 1¼ tbsp, 20 g) and eat while warm.',
       ],
       ro: [
         'Bate oul cu laptele, 5 g (cam 1 linguriță) de zahăr și o șiță de sare. Adaugă treptat făina, amestecând, până obții un aluat omogen, fără cocoloașe. Lasă-l 15 minute să se odihnească.',
-        'Pisează brânza de vaci cu restul de 5 g (cam 1 linguriță) de zahăr și coaja rasă de lămâie, până devine destul de fină.',
+        'Pisează brânza de vaci cu restul de 5 g (cam 1 linguriță) de zahăr, coaja rasă de lămâie și jumătate de ou bătut (cam 25 g), până devine destul de fină.',
         'Încinge puțin ulei (cam 1 linguriță, 5 ml) într-o tigaie antiaderentă la foc mediu, șterge-l cu un prosop de hârtie și toarnă un strat subțire de aluat. Coace circa 1 minut pe fiecare parte, până se rumenesc. Repetă cu restul aluatului; ies cam 8 clătite.',
         'Pune o lingură de umplutură de brânză pe fiecare clătită, rulează-le și servește câte două de persoană.',
         'Adaugă deasupra smântâna (cam 1¼ lingură, 20 g) și mănâncă-le calde.',
