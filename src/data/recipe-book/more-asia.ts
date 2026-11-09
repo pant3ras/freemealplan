@@ -604,7 +604,7 @@ export const MORE_ASIA: Recipe[] = [
       ['potato', 150],
       ['onion', 80],
       ['coconut-milk', 80],
-      ['peanuts', 10],
+      ['peanuts', 25],
       ['massaman-curry-paste', 15],
       ['garlic', 5],
       ['ginger', 3],

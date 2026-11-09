@@ -306,21 +306,21 @@ export const MORE_EUROPE: Recipe[] = [
     difficulty: 'easy',
     keepsDays: 4,
     name: { en: 'Pasta e ceci (pasta and chickpea stew)', ro: 'Paste e ceci (ciorbă de paste cu năut)' },
-    lines: [['chickpeas', 150], ['pasta', 40], ['onion', 40], ['carrot', 30], ['garlic', 3], ['olive-oil', 15], ['canned-tomatoes', 60], ['parmesan', 10], ['parsley', 5]],
+    lines: [['chickpeas', 60], ['pasta', 40], ['onion', 40], ['carrot', 30], ['garlic', 3], ['olive-oil', 4], ['canned-tomatoes', 200], ['parmesan', 10], ['parsley', 5]],
     extras: [
       { en: 'salt and black pepper', ro: 'sare și piper' },
       { en: 'about 400 ml water per serving', ro: 'circa 400 ml apă la porție' },
     ],
     steps: {
       en: [
-        'Heat the oil (about 1 tbsp, 13 ml) in a pot and cook the finely chopped onion, carrot and sliced garlic over medium heat for 8 minutes until soft.',
+        'Heat the oil (about 1 tsp, 4 ml) in a pot and cook the finely chopped onion, carrot and sliced garlic over medium heat for 8 minutes until soft.',
         'Add the canned tomatoes and cook 3 minutes. Add the drained chickpeas and the water, season and bring to a simmer.',
         'Simmer for 15 minutes, then blend about half the pot (or mash a quarter of the chickpeas) so the broth turns creamy but still has texture.',
         'Stir in the pasta and cook 8 to 10 minutes, stirring often, until tender. Add a splash (about 1 tbsp, 15 ml) of water if it gets too thick.',
         'Rest for 5 minutes, then serve topped with chopped parsley and grated parmesan.',
       ],
       ro: [
-        'Încinge uleiul (cam 1 lingură, 13 ml) într-o oală și călește la foc mediu ceapa, morcovul tocate mărunt și usturoiul feliat, 8 minute, până se înmoaie.',
+        'Încinge uleiul (cam 1 linguriță, 4 ml) într-o oală și călește la foc mediu ceapa, morcovul tocate mărunt și usturoiul feliat, 8 minute, până se înmoaie.',
         'Adaugă roșiile din conservă și gătește 3 minute. Pune năutul scurs și apa, condimentează și adu la fierbere.',
         'Fierbe 15 minute, apoi mixează circa jumătate din oală (sau pasează un sfert din năut), ca supa să devină cremoasă, dar să păstreze textură.',
         'Adaugă pastele și fierbe 8–10 minute, amestecând des, până se înmoaie. Dacă se îngroașă prea tare, mai pune un strop (cam 1 lingură, 15 ml) de apă.',

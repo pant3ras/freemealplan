@@ -1824,7 +1824,7 @@ export const AMERICAS_INDIA_MIDEAST: Recipe[] = [
     difficulty: 'medium',
     keepsDays: 4,
     name: { en: 'Harira — Moroccan lentil, chickpea and tomato soup', ro: 'Harira — supă marocană cu linte, năut și roșii' },
-    lines: [['lamb-leg', 70], ['olive-oil', 8], ['onion', 60], ['celeriac', 30], ['garlic', 4], ['ginger', 4], ['parsley', 8], ['cilantro', 8], ['tomato-paste', 15], ['canned-tomatoes', 150], ['brown-lentils', 80], ['chickpeas', 70], ['pasta', 15], ['flour', 8], ['eggs', 25], ['lemon', 15], ['wholegrain-bread', 40]],
+    lines: [['lamb-leg', 70], ['olive-oil', 8], ['onion', 60], ['celeriac', 30], ['garlic', 4], ['ginger', 4], ['parsley', 8], ['cilantro', 8], ['tomato-paste', 15], ['canned-tomatoes', 150], ['brown-lentils', 25], ['chickpeas', 70], ['pasta', 15], ['flour', 8], ['eggs', 25], ['lemon', 15], ['wholegrain-bread', 40]],
     extras: [
       { en: 'salt', ro: 'sare' },
       { en: 'per serving: ¼ tsp ground turmeric, ¼ tsp ground cinnamon and ½ tsp black pepper', ro: 'la porție: ¼ linguriță de turmeric, ¼ linguriță de scorțișoară și ½ linguriță de piper' },

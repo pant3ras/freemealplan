@@ -849,7 +849,7 @@ export const ASIAN: Recipe[] = [
     difficulty: 'easy',
     keepsDays: 2,
     name: { en: 'Teriyaki salmon bowl with pickled cucumber and edamame', ro: 'Bol cu somon teriyaki, castravete murat rapid și edamame' },
-    lines: [['salmon', 150], ['soy-sauce', 18], ['honey', 10], ['sugar', 5], ['rice-vinegar', 8], ['mirin', 15], ['ginger', 5], ['garlic', 3], ['sunflower-oil', 4], ['rice', 70], ['edamame', 50], ['cucumber', 80], ['sesame-oil', 3], ['spring-onion', 8]],
+    lines: [['salmon', 150], ['soy-sauce', 18], ['honey', 10], ['sugar', 5], ['rice-vinegar', 8], ['mirin', 15], ['ginger', 5], ['garlic', 3], ['sunflower-oil', 4], ['rice', 70], ['edamame', 50], ['cucumber', 80], ['carrot', 40], ['sesame-oil', 3], ['spring-onion', 8]],
     extras: [
       { en: 'mirin (sweet rice wine) — if you can’t find it: 1 tsp sugar + 1 tbsp water for each tbsp of mirin', ro: 'mirin (vin de orez dulce) — dacă nu găsești: 1 linguriță de zahăr + 1 lingură de apă pentru fiecare lingură de mirin' },
       { en: 'rice vinegar — if you can’t find it: white wine vinegar, a little less', ro: 'oțet de orez — dacă nu găsești: oțet de vin alb, puțin mai puțin' },
@@ -857,20 +857,20 @@ export const ASIAN: Recipe[] = [
     ],
     steps: {
       en: [
-        'Rinse the rice until the water runs clear and cook it. Slice the cucumber thinly and toss it with a pinch of salt, a pinch of the sugar and half the rice vinegar (about 1½ tsp); leave it to quick-pickle.',
+        'Rinse the rice until the water runs clear and cook it. Slice the cucumber thinly and toss it with a pinch of salt, a pinch of the sugar and half the rice vinegar (about 1½ tsp); leave it to quick-pickle. Cut the carrot into thin matchsticks.',
         'Make the teriyaki: simmer the soy sauce (about 1 tbsp), 1½ tsp honey, the mirin (1 tbsp), the rest of the sugar (about 1 tsp), the grated ginger (1 tsp) and garlic (½ clove) with about 1 tbsp (15 ml) water per serving for 1–2 minutes, until it coats a spoon.',
         'Pat the salmon dry and season the flesh lightly with salt. Heat the oil (about 1 tsp) in a non-stick pan over medium-high heat and lay the salmon in skin-side down. Press it for 10 seconds so it doesn’t curl, then cook without moving for 4–5 minutes, until the skin is crisp and the flesh is cooked two thirds of the way up.',
         'Meanwhile cook the edamame for 3 minutes in boiling water and drain.',
         'Flip the salmon, turn the heat to low, pour in the teriyaki and spoon it over the fish for 1–2 minutes until glazed and just cooked — still slightly translucent in the very centre.',
-        'Fill bowls with rice and add the salmon, edamame and drained cucumber. Drizzle with the glaze from the pan and the sesame oil (¾ tsp) and scatter with spring onion.',
+        'Fill bowls with rice and add the salmon, edamame, drained cucumber and carrot. Drizzle with the glaze from the pan and the sesame oil (¾ tsp) and scatter with spring onion.',
       ],
       ro: [
-        'Spală orezul până când apa iese limpede și fierbe-l. Taie castravetele felii subțiri și amestecă-l cu un praf de sare, un praf din zahăr și jumătate din oțetul de orez (cam 1½ linguriță); lasă-l să se mureze rapid.',
+        'Spală orezul până când apa iese limpede și fierbe-l. Taie castravetele felii subțiri și amestecă-l cu un praf de sare, un praf din zahăr și jumătate din oțetul de orez (cam 1½ linguriță); lasă-l să se mureze rapid. Taie morcovul în bastonașe subțiri.',
         'Fă sosul teriyaki: fierbe ușor sosul de soia (cam 1 lingură), 1½ linguriță de miere, mirinul (1 lingură), restul de zahăr (1 linguriță), ghimbirul (1 linguriță) și usturoiul (½ cățel) rase cu cam o lingură (15 ml) de apă la porție, 1–2 minute, până îmbracă lingura.',
         'Șterge somonul și sărează ușor partea fără piele. Încinge uleiul (cam 1 linguriță) într-o tigaie antiaderentă la foc mediu spre mare și așază somonul cu pielea în jos. Apasă-l 10 secunde, ca să nu se curbeze, apoi gătește-l fără să-l miști 4–5 minute, până pielea devine crocantă și carnea e gătită pe două treimi din înălțime.',
         'Între timp, fierbe edamame 3 minute în apă clocotită și scurge-le.',
         'Întoarce somonul, dă focul la mic, toarnă sosul teriyaki și stropește peștele cu el 1–2 minute, până se glazurează și e abia gătit — încă puțin translucid chiar în centru.',
-        'Pune orezul în boluri și adaugă somonul, edamame și castravetele scurs. Stropește cu glazura din tigaie și cu ¾ de linguriță de ulei de susan și presară ceapă verde.',
+        'Pune orezul în boluri și adaugă somonul, edamame, castravetele scurs și morcovul. Stropește cu glazura din tigaie și cu ¾ de linguriță de ulei de susan și presară ceapă verde.',
       ],
     },
     tip: {
@@ -1147,7 +1147,7 @@ export const ASIAN: Recipe[] = [
     difficulty: 'medium',
     keepsDays: 3,
     name: { en: 'Crispy tofu satay bowl with peanut sauce', ro: 'Bol cu tofu crocant și sos satay de arahide' },
-    lines: [['tofu', 170], ['cornstarch', 6], ['rice', 55], ['broccoli', 120], ['carrot', 40], ['cucumber', 60], ['peanut-butter', 16], ['coconut-milk', 30], ['curry-powder', 2], ['soy-sauce', 12], ['lime', 15], ['sugar', 5], ['garlic', 4], ['chili-flakes', 1], ['cilantro', 5], ['sunflower-oil', 8]],
+    lines: [['tofu', 170], ['cornstarch', 6], ['rice', 55], ['broccoli', 120], ['carrot', 40], ['cucumber', 60], ['peanut-butter', 16], ['coconut-milk', 30], ['curry-powder', 2], ['soy-sauce', 12], ['lime', 15], ['sugar', 5], ['garlic', 4], ['chili-flakes', 1], ['cilantro', 5], ['sunflower-oil', 8], ['peanuts', 10]],
     extras: [{ en: 'salt', ro: 'sare' }],
     steps: {
       en: [
@@ -1156,7 +1156,7 @@ export const ASIAN: Recipe[] = [
         'Cut the tofu into cubes, sprinkle with salt and toss in the cornstarch. Fry in the rest of the oil (about 1 tsp) over medium-high heat, turning, until crisp and golden on all sides, 8–10 minutes.',
         'Steam the broccoli for 3–4 minutes. Cut the cucumber and carrot into sticks or ribbons and dress them with the rest of the lime juice, the last of the sugar and a pinch of salt.',
         'Toss the hot tofu in a third of the satay sauce.',
-        'Build the bowls: rice, broccoli, tofu and the crunchy cucumber and carrot, with more sauce spooned over and plenty of cilantro on top.',
+        'Build the bowls: rice, broccoli, tofu and the crunchy cucumber and carrot, with more sauce spooned over plenty of cilantro and chopped peanuts on top.',
       ],
       ro: [
         'Presează tofu 15 minute între prosoape de bucătărie, sub ceva greu. Fierbe orezul.',
@@ -1164,7 +1164,7 @@ export const ASIAN: Recipe[] = [
         'Taie tofu cuburi, sărează-l și dă-l prin amidon. Prăjește-l în restul de ulei (cam 1 linguriță) la foc mediu spre mare, întorcându-l, până devine crocant și auriu pe toate părțile, 8–10 minute.',
         'Gătește broccoli la abur 3–4 minute. Taie castravetele și morcovul bețișoare sau panglici și asezonează-le cu restul de zeamă de lime, restul de zahăr și un praf de sare.',
         'Amestecă tofu fierbinte cu o treime din sosul satay.',
-        'Asamblează bolurile: orez, broccoli, tofu și castravetele și morcovul crocante, cu încă sos deasupra și coriandru din belșug.',
+        'Asamblează bolurile: orez, broccoli, tofu și castravetele și morcovul crocante, cu încă sos deasupra, coriandru din belșug și arahide tocate.',
       ],
     },
     tip: {

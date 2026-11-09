@@ -384,7 +384,7 @@ export const EVERYDAY: Recipe[] = [
       en: 'Banana, peanut butter and oat smoothie',
       ro: 'Smoothie cu banană, unt de arahide și ovăz',
     },
-    lines: [['milk', 250], ['banana', 100], ['skyr', 100], ['peanut-butter', 15], ['oats', 20]],
+    lines: [['milk', 100], ['banana', 100], ['skyr', 100], ['peanut-butter', 15], ['oats', 20]],
     extras: [
       { en: 'a pinch of ground cinnamon', ro: 'un praf de scorțișoară măcinată' },
       { en: 'a pinch of salt', ro: 'un praf de sare' },
@@ -394,13 +394,13 @@ export const EVERYDAY: Recipe[] = [
       en: [
         'Ahead of time, peel ripe bananas, slice them into coins and freeze them on a tray — frozen banana makes the smoothie thick and milkshake-cold without watering it down with ice.',
         'Blend the oats on their own until powdery, so the smoothie isn’t gritty.',
-        'Add 250 ml milk, frozen banana, skyr, 1 tbsp (15 g) peanut butter, a pinch of cinnamon and a pinch of salt, and blend for 45–60 seconds until completely smooth.',
+        'Add 100 ml milk, frozen banana, skyr, 1 tbsp (15 g) peanut butter, a pinch of cinnamon and a pinch of salt, and blend for 45–60 seconds until completely smooth.',
         'Taste — the salt should make it round and nutty; add a splash more milk if it’s too thick to drink. Serve straight away.',
       ],
       ro: [
         'Din timp, curăță bananele coapte, taie-le rondele și congelează-le pe o tavă — banana congelată face smoothie-ul gros și rece ca un milkshake, fără să-l diluezi cu gheață.',
         'Mixează întâi ovăzul singur, până devine pudră, ca smoothie-ul să nu fie nisipos.',
-        'Adaugă 250 ml lapte, banana congelată, skyr-ul, 1 lingură (15 g) unt de arahide, un praf de scorțișoară și un praf de sare și mixează 45–60 de secunde, până devine complet fin.',
+        'Adaugă 100 ml lapte, banana congelată, skyr-ul, 1 lingură (15 g) unt de arahide, un praf de scorțișoară și un praf de sare și mixează 45–60 de secunde, până devine complet fin.',
         'Gustă — sarea trebuie să-i dea un gust rotund, de nucă; adaugă un strop de lapte dacă e prea gros. Servește imediat.',
       ],
     },

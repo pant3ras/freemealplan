@@ -233,7 +233,7 @@ export const MORE_INDIA_MIDEAST: Recipe[] = [
     difficulty: 'easy',
     keepsDays: 1,
     name: { en: 'Chickpea fattoush with feta', ro: 'Fattoush cu năut și feta' },
-    lines: [['pita', 60], ['chickpeas', 120], ['feta', 50], ['cucumber', 100], ['tomato', 120], ['red-onion', 30], ['lettuce', 60], ['parsley', 10], ['lemon', 40], ['olive-oil', 20]],
+    lines: [['pita', 60], ['chickpeas', 120], ['feta', 20], ['cucumber', 100], ['tomato', 120], ['red-onion', 30], ['lettuce', 60], ['parsley', 10], ['lemon', 40], ['olive-oil', 20]],
     extras: [
       { en: 'salt and black pepper', ro: 'sare și piper negru' },
       { en: '1 tsp sumac', ro: '1 linguriță de sumac' },

@@ -106,21 +106,21 @@ export const ITALIAN_GREEK_MED: Recipe[] = [
     difficulty: 'easy',
     keepsDays: 2,
     name: { en: 'Red lentil penne all’arrabbiata with spinach', ro: 'Penne din linte roșie all’arrabbiata cu spanac' },
-    lines: [['lentil-pasta', 90], ['olive-oil', 12], ['garlic', 8], ['chili-flakes', 1], ['tomato-paste', 10], ['canned-tomatoes', 200], ['spinach', 60], ['parsley', 6], ['parmesan', 12]],
+    lines: [['lentil-pasta', 90], ['olive-oil', 12], ['garlic', 3], ['chili-flakes', 1], ['tomato-paste', 10], ['canned-tomatoes', 200], ['spinach', 60], ['parsley', 6], ['parmesan', 12]],
     extras: [
       { en: 'salt', ro: 'sare' },
       { en: '1 fresh red chilli, instead of or as well as the flakes, if you like it hot', ro: 'un ardei iute roșu proaspăt, în loc de fulgi sau pe lângă ei, dacă îți place iute' },
     ],
     steps: {
       en: [
-        'Put a pot of salted water on to boil. Thinly slice the garlic (about 2 cloves). Warm the oil (about 1 tbsp, 13 ml) in a wide pan over medium-low heat, add the garlic and chilli flakes and let them sizzle gently for about 2 minutes, until the garlic is just golden and the oil turns red and fragrant. Blooming the chilli in oil spreads its heat through the whole sauce.',
+        'Put a pot of salted water on to boil. Thinly slice the garlic (about 1 clove). Warm the oil (about 1 tbsp, 13 ml) in a wide pan over medium-low heat, add the garlic and chilli flakes and let them sizzle gently for about 2 minutes, until the garlic is just golden and the oil turns red and fragrant. Blooming the chilli in oil spreads its heat through the whole sauce.',
         'Stir in the tomato paste (2 tsp, 10 g) and fry it for a minute until it darkens. Tip in the tomatoes and a good pinch of salt and simmer briskly for 10–12 minutes, crushing them with the spoon, until the sauce is thick and no longer watery.',
         'Meanwhile, cook the lentil pasta 2 minutes less than the packet time — it goes from firm to mushy quickly. Don’t cover the pot (it foams), and keep a mug of the cooking water.',
         'Drain the pasta and add it to the sauce with the spinach and a splash (about 1 tbsp, 15 ml) of the cooking water. Toss over the heat for 1–2 minutes, until the spinach wilts and the sauce coats every piece.',
         'Taste: arrabbiata means ‘angry’, so it should be properly hot — add more chilli or salt if it needs it. Finish with the parsley and the parmesan.',
       ],
       ro: [
-        'Pune la fiert o oală cu apă sărată. Taie usturoiul (cam 2 căței) felii subțiri. Încălzește uleiul (cam 1 lingură, 13 ml) într-o tigaie largă, la foc mediu spre mic, adaugă usturoiul și fulgii de chili și lasă-i să sfârâie ușor cam 2 minute, până usturoiul abia se aurește, iar uleiul se colorează în roșu și devine aromat. Călit în ulei, ardeiul iute își împrăștie iuțeala în tot sosul.',
+        'Pune la fiert o oală cu apă sărată. Taie usturoiul (cam un cățel) felii subțiri. Încălzește uleiul (cam 1 lingură, 13 ml) într-o tigaie largă, la foc mediu spre mic, adaugă usturoiul și fulgii de chili și lasă-i să sfârâie ușor cam 2 minute, până usturoiul abia se aurește, iar uleiul se colorează în roșu și devine aromat. Călit în ulei, ardeiul iute își împrăștie iuțeala în tot sosul.',
         'Adaugă pasta de roșii (2 lingurițe, 10 g) și prăjește-o un minut, până se închide la culoare. Pune roșiile și un praf bun de sare și fierbe vioi 10–12 minute, zdrobindu-le cu lingură, până sosul se îngroașă și nu mai e apos.',
         'Între timp fierbe pastele din linte cu 2 minute mai puțin decât scrie pe pachet — trec repede de la tari la terciuite. Nu pune capac (fac spumă) și păstrează o cană din apă în care au fiert.',
         'Scurge pastele și pune-le în sos, cu spanacul și un strop (cam 1 lingură, 15 ml) din apă păstrată. Amestecă pe foc 1–2 minute, până se înmoaie spanacul și sosul îmbracă fiecare bucată.',
