@@ -1,0 +1,1659 @@
+[
+ {
+  "id": "telemea-omelette",
+  "cuisine": "Romanian",
+  "en": "Telemea and pepper omelette with rye",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "cottage-rye",
+  "cuisine": "Romanian",
+  "en": "Brânză de vaci with sour cream and herbs on rye",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "mamaliga-branza-ou",
+  "cuisine": "Romanian",
+  "en": "Mămăliguță with brânză, sour cream and a fried egg",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "ciorba-pui",
+  "cuisine": "Romanian",
+  "en": "Chicken ciorbă with vegetables and lovage",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "ciorba-perisoare",
+  "cuisine": "Romanian",
+  "en": "Meatball sour soup (ciorbă de perișoare)",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "bors-perisoare-curcan",
+  "cuisine": "Romanian",
+  "en": "Turkey meatball borș with lovage",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "ciorba-fasole-afumatura",
+  "cuisine": "Romanian",
+  "en": "Bean ciorbă with smoked sausage and tarragon",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "ciorba-vacuta",
+  "cuisine": "Romanian",
+  "en": "Beef ciorbă with vegetables and lovage",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "ciorba-radauteana",
+  "cuisine": "Romanian",
+  "en": "Rădăuțeană — chicken ciorbă with garlic, sour cream and egg yolk",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "supa-galuste",
+  "cuisine": "Romanian",
+  "en": "Chicken soup with semolina dumplings",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "ciorba-legume",
+  "cuisine": "Romanian",
+  "en": "Vegetable ciorbă with sour cream and egg",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "ciorba-peste",
+  "cuisine": "Romanian",
+  "en": "Fish ciorbă with cod, mămăliguță and garlic sauce",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "supa-crema-ciuperci",
+  "cuisine": "Romanian",
+  "en": "Cream of mushroom soup with garlic croutons",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "sarmale",
+  "cuisine": "Romanian",
+  "en": "Sarmale — sauerkraut cabbage rolls with mămăligă",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "ardei-umpluti",
+  "cuisine": "Romanian",
+  "en": "Ardei umpluți — stuffed peppers in tomato sauce",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "tocanita-pui",
+  "cuisine": "Romanian",
+  "en": "Chicken tocăniță with mămăligă",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "tocanita-vita",
+  "cuisine": "Romanian",
+  "en": "Beef tocăniță — slow-braised beef with onions and paprika, with mămăligă",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "varza-calita-ceafa",
+  "cuisine": "Romanian",
+  "en": "Braised cabbage and sauerkraut with pork shoulder",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "musaca-cartofi",
+  "cuisine": "Romanian",
+  "en": "Musaca de cartofi — Romanian potato and meat bake",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "tochitura",
+  "cuisine": "Romanian",
+  "en": "Tochitură moldovenească — pork and sausage stew with mămăligă, egg and cheese",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "ciulama-pui",
+  "cuisine": "Romanian",
+  "en": "Ciulama — chicken and mushrooms in a creamy sauce with mămăligă",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "pork-potatoes",
+  "cuisine": "Romanian",
+  "en": "Roast pork loin with mujdei, crispy potatoes and cabbage salad",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "parjoale-moldovenesti",
+  "cuisine": "Romanian",
+  "en": "Pârjoale moldovenești — herby meat patties with mashed potatoes",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "mici",
+  "cuisine": "Romanian",
+  "en": "Mici — grilled garlicky skinless sausages with mustard",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "pilaf-pui",
+  "cuisine": "Romanian",
+  "en": "Pilaf de pui — oven-baked chicken and rice",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "mancare-mazare",
+  "cuisine": "Romanian",
+  "en": "Mâncare de mazăre — pea and chicken stew with dill",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "fasole-verde-porc",
+  "cuisine": "Romanian",
+  "en": "Green bean stew with pork, tomato and garlic",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "fasole-carnati",
+  "cuisine": "Romanian",
+  "en": "Fasole cu cârnați — baked beans with smoked sausages",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "iahnie-fasole",
+  "cuisine": "Romanian",
+  "en": "Iahnie de fasole — Romanian white bean stew",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "mushroom-lentil-stew",
+  "cuisine": "Romanian",
+  "en": "Mushroom and lentil tocăniță with mămăligă",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "salata-vinete",
+  "cuisine": "Romanian",
+  "en": "Salată de vinete — smoky aubergine spread with eggs, telemea and rye",
+  "slots": [
+   "lunch",
+   "dinner",
+   "snack"
+  ]
+ },
+ {
+  "id": "bolognese",
+  "cuisine": "Italian",
+  "en": "Slow-cooked ragù bolognese with tagliatelle",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "shrimp-spaghetti",
+  "cuisine": "Italian",
+  "en": "Garlic and chilli prawn spaghetti with burst cherry tomatoes",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "lentil-pasta-arrabbiata",
+  "cuisine": "Italian",
+  "en": "Red lentil penne all’arrabbiata with spinach",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "cottage-pasta-bake",
+  "cuisine": "Italian",
+  "en": "Baked pasta with spinach, brânză de vaci and tomato",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "pizza-margherita",
+  "cuisine": "Italian",
+  "en": "Pizza margherita on a 24-hour cold-risen dough",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "pizza-pepperoni",
+  "cuisine": "Italian",
+  "en": "Pepperoni pizza with a slow same-day dough",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "protein-pizza",
+  "cuisine": "Italian",
+  "en": "Quick yogurt-dough pizza with paprika chicken and peppers",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "tortilla-pizza",
+  "cuisine": "Italian",
+  "en": "Crisp pan tortilla pizza with ham and mushrooms",
+  "slots": [
+   "lunch",
+   "dinner",
+   "snack"
+  ]
+ },
+ {
+  "id": "carbonara",
+  "cuisine": "Italian",
+  "en": "Spaghetti carbonara (the Roman way, no cream)",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "chicken-parm",
+  "cuisine": "Italian",
+  "en": "Chicken parmigiana with spaghetti in fresh tomato sauce",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "pesto-pasta-chicken",
+  "cuisine": "Italian",
+  "en": "Basil-walnut pesto pasta with chicken and green beans",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "minestrone",
+  "cuisine": "Italian",
+  "en": "Minestrone with white beans, basil and parmesan",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "mushroom-risotto",
+  "cuisine": "Italian",
+  "en": "Mushroom and chicken risotto",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "lasagne-ragu",
+  "cuisine": "Italian",
+  "en": "Lasagne al ragù with béchamel",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "potato-gnocchi",
+  "cuisine": "Italian",
+  "en": "Homemade potato gnocchi alla sorrentina",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "ribollita",
+  "cuisine": "Italian",
+  "en": "Ribollita (Tuscan bean, cabbage and bread soup)",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "chicken-cacciatore",
+  "cuisine": "Italian",
+  "en": "Chicken cacciatore with soft parmesan polenta",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "pasta-e-fagioli",
+  "cuisine": "Italian",
+  "en": "Pasta e fagioli (Italian pasta and bean soup)",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "yogurt-bowl",
+  "cuisine": "Greek",
+  "en": "Greek yogurt with warm cinnamon apples, toasted oats and walnuts",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "greek-chicken-salad",
+  "cuisine": "Greek",
+  "en": "Greek village salad with grilled lemon-oregano chicken",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "souvlaki-pita",
+  "cuisine": "Greek",
+  "en": "Chicken souvlaki pita with tzatziki and oven fries",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "greek-lemon-chicken",
+  "cuisine": "Greek",
+  "en": "Greek lemon-oregano chicken with lemon roast potatoes",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "moussaka",
+  "cuisine": "Greek",
+  "en": "Moussaka with spiced beef and a golden béchamel",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "tzatziki-veg",
+  "cuisine": "Greek",
+  "en": "Tzatziki with crunchy veg sticks",
+  "slots": [
+   "snack"
+  ]
+ },
+ {
+  "id": "avgolemono",
+  "cuisine": "Greek",
+  "en": "Avgolemono (Greek egg-lemon chicken and rice soup)",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "fasolada",
+  "cuisine": "Greek",
+  "en": "Fasolada (Greek white bean and tomato soup)",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "stifado",
+  "cuisine": "Greek",
+  "en": "Beef stifado (Greek beef and onion stew) with orzo",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "spanakopita",
+  "cuisine": "Greek",
+  "en": "Spanakopita-style spinach and cheese pie with hand-rolled pastry",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "salmon-potatoes",
+  "cuisine": "Mediterranean",
+  "en": "Crisp-skinned salmon with smashed potatoes and lemon-dill butter",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "tuna-pasta-salad",
+  "cuisine": "Mediterranean",
+  "en": "Mediterranean tuna pasta salad with olives and lemon",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "cod-couscous",
+  "cuisine": "Mediterranean",
+  "en": "Roast cod with blistered tomatoes, olives and lemon couscous",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "turkey-meatballs",
+  "cuisine": "Mediterranean",
+  "en": "Spiced turkey meatballs in tomato sauce with couscous",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "chicken-rice-bowl",
+  "cuisine": "Chinese",
+  "en": "Garlic-ginger chicken with rice and broccoli",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "tofu-stir-fry",
+  "cuisine": "Chinese",
+  "en": "Crispy tofu and vegetable rice-noodle stir-fry",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "egg-fried-rice",
+  "cuisine": "Chinese",
+  "en": "Egg fried rice with peas and spring onion",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "beef-broccoli",
+  "cuisine": "Chinese",
+  "en": "Beef and broccoli in garlic-ginger sauce",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "sweet-sour-chicken",
+  "cuisine": "Chinese",
+  "en": "Crispy sweet and sour chicken with pineapple",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "kung-pao-chicken",
+  "cuisine": "Chinese",
+  "en": "Kung pao chicken with peanuts",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "cashew-chicken",
+  "cuisine": "Chinese",
+  "en": "Cashew chicken with peppers",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "chow-mein",
+  "cuisine": "Chinese",
+  "en": "Chicken chow mein with crispy noodles",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "mapo-tofu",
+  "cuisine": "Chinese",
+  "en": "Mapo tofu with pork",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "general-tso",
+  "cuisine": "Chinese",
+  "en": "General Tso’s chicken with broccoli",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "garlic-shrimp-stirfry",
+  "cuisine": "Chinese",
+  "en": "Garlic prawn stir-fry with broccoli",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "steamed-ginger-cod",
+  "cuisine": "Chinese",
+  "en": "Cantonese steamed cod with ginger and spring onion",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "hot-sour-soup",
+  "cuisine": "Chinese",
+  "en": "Hot and sour soup with pork and tofu",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "char-siu-pork",
+  "cuisine": "Chinese",
+  "en": "Char siu–style roast pork with rice and stir-fried cabbage",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "pork-cabbage-dumplings",
+  "cuisine": "Chinese",
+  "en": "Pork and cabbage dumplings (jiaozi) from scratch",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "chicken-corn-egg-drop-soup",
+  "cuisine": "Chinese",
+  "en": "Chicken and sweetcorn egg drop soup",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "dan-dan-noodles",
+  "cuisine": "Chinese",
+  "en": "Dan dan noodles with crispy pork and sesame-chilli sauce",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "hong-shao-rou",
+  "cuisine": "Chinese",
+  "en": "Red-braised pork (hong shao rou)",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "edamame-quinoa-salad",
+  "cuisine": "Japanese",
+  "en": "Edamame and quinoa salad with sesame-ginger dressing",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "edamame",
+  "cuisine": "Japanese",
+  "en": "Edamame with garlic, chilli and sesame",
+  "slots": [
+   "snack"
+  ]
+ },
+ {
+  "id": "teriyaki-salmon",
+  "cuisine": "Japanese",
+  "en": "Teriyaki salmon bowl with pickled cucumber and edamame",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "teriyaki-chicken",
+  "cuisine": "Japanese",
+  "en": "Pan-glazed teriyaki chicken with rice and broccoli",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "oyakodon",
+  "cuisine": "Japanese",
+  "en": "Oyakodon — chicken and egg rice bowl",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "yakisoba",
+  "cuisine": "Japanese",
+  "en": "Pork yakisoba",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "salmon-poke",
+  "cuisine": "Japanese",
+  "en": "Smoked salmon poke bowl",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "shoyu-chicken-ramen",
+  "cuisine": "Japanese",
+  "en": "Shoyu chicken ramen with soft-boiled eggs",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "chicken-katsu-curry",
+  "cuisine": "Japanese",
+  "en": "Chicken katsu curry",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "tofu-satay-bowl",
+  "cuisine": "Thai",
+  "en": "Crispy tofu satay bowl with peanut sauce",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "thai-coconut-curry",
+  "cuisine": "Thai",
+  "en": "Thai red-style chicken curry with squash",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "pad-thai",
+  "cuisine": "Thai",
+  "en": "Chicken pad thai",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "thai-basil-chicken",
+  "cuisine": "Thai",
+  "en": "Thai basil chicken (pad kra pao) with a crispy fried egg",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "thai-coconut-soup",
+  "cuisine": "Thai",
+  "en": "Thai coconut chicken soup (tom kha gai)",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "thai-green-curry",
+  "cuisine": "Thai",
+  "en": "Thai green curry with prawns and homemade paste",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "tom-yum-soup",
+  "cuisine": "Thai",
+  "en": "Tom yum soup with prawns and mushrooms",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "bibimbap",
+  "cuisine": "Korean",
+  "en": "Bibimbap with crispy rice and spicy sauce",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "bulgogi-bowl",
+  "cuisine": "Korean",
+  "en": "Beef bulgogi bowl with lettuce wraps",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "korean-chicken",
+  "cuisine": "Korean",
+  "en": "Crispy Korean-style glazed chicken with pickled slaw",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "sauerkraut-fried-rice",
+  "cuisine": "Korean",
+  "en": "Korean-style “kimchi” fried rice with Romanian sauerkraut",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "pork-sauerkraut-jjigae",
+  "cuisine": "Korean",
+  "en": "Korean pork and sauerkraut stew (kimchi-jjigae style)",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "smash-burger",
+  "cuisine": "American",
+  "en": "Double smash burger with burger sauce",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "crispy-chicken-burger",
+  "cuisine": "American",
+  "en": "Crispy fried chicken burger with hot honey",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "burger-bowl",
+  "cuisine": "American",
+  "en": "Burger bowl with crispy smashed potatoes",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "cheesesteak",
+  "cuisine": "American",
+  "en": "Philly cheesesteak with homemade cheese sauce",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "bbq-chicken-sandwich",
+  "cuisine": "American",
+  "en": "Pulled BBQ chicken sandwich with crunchy slaw",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "loaded-potato",
+  "cuisine": "American",
+  "en": "Twice-baked loaded potatoes with chicken, bacon and cheddar",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "mac-cheese",
+  "cuisine": "American",
+  "en": "Baked mac and cheese with broccoli and a crunchy top",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "buffalo-chicken-wrap",
+  "cuisine": "American",
+  "en": "Crispy buffalo chicken wrap with tangy cheese dip",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "steak-potatoes",
+  "cuisine": "American",
+  "en": "Pan-seared steak with peppercorn sauce, crispy potatoes and green beans",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "pancakes",
+  "cuisine": "American",
+  "en": "Fluffy American pancakes with skyr and warm berries",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "pulled-pork-slaw",
+  "cuisine": "American",
+  "en": "Slow-roasted pulled pork with tangy sauce and slaw",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "chili-con-carne",
+  "cuisine": "American",
+  "en": "Texas-style chili con carne with skillet cornbread",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "chicken-corn-chowder",
+  "cuisine": "American",
+  "en": "Chicken and sweetcorn chowder with bacon",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "tofu-scramble-wrap",
+  "cuisine": "Mexican",
+  "en": "Smoky tofu scramble breakfast burrito",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "turkey-chili",
+  "cuisine": "Mexican",
+  "en": "Turkey and bean chili with rice",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "fajita-wraps",
+  "cuisine": "Mexican",
+  "en": "Sizzling chicken fajitas with lime crema",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "bean-tacos",
+  "cuisine": "Mexican",
+  "en": "Black bean and roasted sweet potato tacos with pickled onions",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "chicken-quesadilla",
+  "cuisine": "Mexican",
+  "en": "Crispy chicken quesadillas with pico de gallo",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "burrito-bowl",
+  "cuisine": "Mexican",
+  "en": "Chicken burrito bowl with cilantro-lime rice",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "beef-tacos",
+  "cuisine": "Mexican",
+  "en": "Crispy beef tacos with pico de gallo",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "chicken-enchiladas",
+  "cuisine": "Mexican",
+  "en": "Chicken enchiladas in homemade red sauce",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "chili-sin-carne",
+  "cuisine": "Mexican",
+  "en": "Smoky three-bean chili sin carne",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "breakfast-burrito",
+  "cuisine": "Mexican",
+  "en": "Breakfast burrito with crispy potatoes, eggs and salsa",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "birria-tacos",
+  "cuisine": "Mexican",
+  "en": "Birria-style beef tacos with consommé for dipping",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "chicken-tortilla-soup",
+  "cuisine": "Mexican",
+  "en": "Chicken tortilla soup",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "chicken-curry",
+  "cuisine": "Indian",
+  "en": "Homestyle chicken curry with basmati rice",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "lentil-dal",
+  "cuisine": "Indian",
+  "en": "Dal tadka — red lentils with sizzling spiced butter",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "butter-chicken",
+  "cuisine": "Indian",
+  "en": "Butter chicken (murgh makhani)",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "chana-masala",
+  "cuisine": "Indian",
+  "en": "Chana masala with rice and cool yogurt",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "aloo-gobi",
+  "cuisine": "Indian",
+  "en": "Aloo gobi with chickpeas, yogurt and warm flatbread",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "tandoori-chicken",
+  "cuisine": "Indian",
+  "en": "Tandoori chicken with cucumber raita and onion salad",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "chicken-biryani",
+  "cuisine": "Indian",
+  "en": "Chicken biryani with crispy onions and raita",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "chicken-tikka-masala",
+  "cuisine": "Indian",
+  "en": "Chicken tikka masala",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "keema-matar",
+  "cuisine": "Indian",
+  "en": "Keema matar — spiced beef mince with peas",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "turkish-eggs",
+  "cuisine": "Middle Eastern",
+  "en": "Çılbır — Turkish poached eggs on garlic yogurt with chilli butter",
+  "slots": [
+   "breakfast",
+   "lunch"
+  ]
+ },
+ {
+  "id": "shakshuka",
+  "cuisine": "Middle Eastern",
+  "en": "Shakshuka with telemea and herbs",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "chickpea-bowl",
+  "cuisine": "Middle Eastern",
+  "en": "Roast chickpea and vegetable bowl with lemon-tahini sauce",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "hummus-carrots",
+  "cuisine": "Middle Eastern",
+  "en": "Silky homemade hummus with carrot and cucumber sticks",
+  "slots": [
+   "snack"
+  ]
+ },
+ {
+  "id": "roasted-chickpeas",
+  "cuisine": "Middle Eastern",
+  "en": "Crunchy spiced roasted chickpeas",
+  "slots": [
+   "snack"
+  ]
+ },
+ {
+  "id": "chicken-shawarma",
+  "cuisine": "Middle Eastern",
+  "en": "Chicken shawarma with garlic-tahini sauce and pickles",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "falafel-bowl",
+  "cuisine": "Middle Eastern",
+  "en": "Crispy falafel bowl with tahini sauce and couscous",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "menemen",
+  "cuisine": "Middle Eastern",
+  "en": "Menemen — Turkish eggs with peppers and tomatoes",
+  "slots": [
+   "breakfast",
+   "lunch"
+  ]
+ },
+ {
+  "id": "turkish-lentil-soup",
+  "cuisine": "Middle Eastern",
+  "en": "Mercimek — Turkish red lentil soup with chilli butter",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "harira",
+  "cuisine": "Middle Eastern",
+  "en": "Harira — Moroccan lentil, chickpea and tomato soup",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "shish-tawook",
+  "cuisine": "Middle Eastern",
+  "en": "Shish tawook with toum garlic sauce",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "mujadara",
+  "cuisine": "Middle Eastern",
+  "en": "Mujadara — spiced rice and lentils with crispy onions",
+  "slots": [
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "overnight-oats",
+  "cuisine": "Classic",
+  "en": "Cinnamon overnight oats with skyr, berries and toasted walnuts",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "eggs-on-toast",
+  "cuisine": "Classic",
+  "en": "Soft-scrambled eggs on toast with salted tomatoes",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "pb-banana-toast",
+  "cuisine": "Classic",
+  "en": "Peanut butter and banana toast with honey and flaky salt",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "protein-pancakes",
+  "cuisine": "Classic",
+  "en": "Cottage cheese and oat pancakes with warm berry compote",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "salmon-avocado-toast",
+  "cuisine": "Classic",
+  "en": "Smoked salmon and avocado toast with dill skyr and quick-pickled onion",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "pb-soy-oats",
+  "cuisine": "Classic",
+  "en": "Peanut butter porridge with caramelised banana",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "french-toast",
+  "cuisine": "Classic",
+  "en": "Cinnamon French toast with skyr and warm berries",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "avocado-egg-toast",
+  "cuisine": "Classic",
+  "en": "Avocado toast with poached eggs and chilli",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "ham-cheese-omelette",
+  "cuisine": "Classic",
+  "en": "Ham, cheddar and spinach omelette with rye toast",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "pb-banana-smoothie",
+  "cuisine": "Classic",
+  "en": "Banana, peanut butter and oat smoothie",
+  "slots": [
+   "breakfast",
+   "snack"
+  ]
+ },
+ {
+  "id": "lighter-full-breakfast",
+  "cuisine": "Classic",
+  "en": "Lighter full breakfast with homemade beans",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "chia-pudding",
+  "cuisine": "Classic",
+  "en": "Coconut-vanilla chia pudding with pineapple and lime",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "french-omelette",
+  "cuisine": "Classic",
+  "en": "Classic French omelette with herbs and buttered toast",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "bagel-breakfast-sandwich",
+  "cuisine": "Classic",
+  "en": "Homemade bagel breakfast sandwich with egg, cheddar and bacon",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "savoury-dutch-baby",
+  "cuisine": "Classic",
+  "en": "Savoury Dutch baby with ham, cheddar and spinach",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "hash-browns-eggs",
+  "cuisine": "Classic",
+  "en": "Crispy hash browns with fried eggs and chive cream",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "honey-almond-granola",
+  "cuisine": "Classic",
+  "en": "Homemade honey-almond granola with skyr and berries",
+  "slots": [
+   "breakfast"
+  ]
+ },
+ {
+  "id": "chicken-noodle-soup",
+  "cuisine": "Classic",
+  "en": "Chicken noodle soup with dill and lemon",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "roast-tomato-soup-toastie",
+  "cuisine": "Classic",
+  "en": "Roasted tomato soup with a cheddar toastie",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "butternut-chickpea-soup",
+  "cuisine": "Classic",
+  "en": "Roasted butternut squash soup with crispy chickpeas",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "leek-potato-bacon-soup",
+  "cuisine": "Classic",
+  "en": "Leek and potato soup with ham and crispy bacon",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "two-lentil-veg-soup",
+  "cuisine": "Classic",
+  "en": "Two-lentil and vegetable soup with spinach and lemon",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "beef-mushroom-rice-soup",
+  "cuisine": "Classic",
+  "en": "Beef, mushroom and rice soup (barley-style)",
+  "slots": [
+   "soup",
+   "lunch",
+   "dinner"
+  ]
+ },
+ {
+  "id": "skyr-walnuts",
+  "cuisine": "Classic",
+  "en": "Skyr with honey, cinnamon and toasted walnuts",
+  "slots": [
+   "snack"
+  ]
+ },
+ {
+  "id": "apple-pb",
+  "cuisine": "Classic",
+  "en": "Apple wedges with a whipped peanut butter dip",
+  "slots": [
+   "snack"
+  ]
+ },
+ {
+  "id": "boiled-eggs",
+  "cuisine": "Classic",
+  "en": "Jammy eggs with paprika salt and cherry tomatoes",
+  "slots": [
+   "snack"
+  ]
+ },
+ {
+  "id": "cottage-berries",
+  "cuisine": "Classic",
+  "en": "Cottage cheese with warm berries and toasted almonds",
+  "slots": [
+   "snack"
+  ]
+ },
+ {
+  "id": "banana-almonds",
+  "cuisine": "Classic",
+  "en": "Banana with honey-cinnamon almonds",
+  "slots": [
+   "snack"
+  ]
+ },
+ {
+  "id": "ham-cheese-rollups",
+  "cuisine": "Classic",
+  "en": "Ham, cheddar and pickle roll-ups",
+  "slots": [
+   "snack"
+  ]
+ },
+ {
+  "id": "peanuts-apple",
+  "cuisine": "Classic",
+  "en": "Apple with sweet and smoky peanuts",
+  "slots": [
+   "snack"
+  ]
+ },
+ {
+  "id": "milk-protein-shake",
+  "cuisine": "Classic",
+  "en": "Vanilla skyr and oat milkshake",
+  "slots": [
+   "snack"
+  ]
+ },
+ {
+  "id": "apple-oat-crumble-squares",
+  "cuisine": "Classic",
+  "en": "Apple and oat crumble squares",
+  "slots": [
+   "snack"
+  ]
+ },
+ {
+  "id": "yogurt-cheesecake-jars",
+  "cuisine": "Classic",
+  "en": "No-bake yogurt cheesecake jars with berries",
+  "slots": [
+   "snack"
+  ]
+ },
+ {
+  "id": "banana-peanut-oat-bars",
+  "cuisine": "Classic",
+  "en": "Banana and peanut butter oat bars",
+  "slots": [
+   "snack"
+  ]
+ },
+ {
+  "id": "banana-nice-cream",
+  "cuisine": "Classic",
+  "en": "Banana ice cream with peanut butter",
+  "slots": [
+   "snack"
+  ]
+ },
+ {
+  "id": "baked-apple-oats",
+  "cuisine": "Classic",
+  "en": "Baked apple with honey oat topping",
+  "slots": [
+   "snack"
+  ]
+ },
+ {
+  "id": "stovetop-lemon-pudding",
+  "cuisine": "Classic",
+  "en": "Stovetop lemon pudding",
+  "slots": [
+   "snack"
+  ]
+ }
+]

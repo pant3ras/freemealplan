@@ -1,0 +1,3674 @@
+{
+ "source": "Monitorul Prețurilor — Consiliul Concurenței (monitorulpreturilor.info)",
+ "fetchedAt": "2026-10-28",
+ "location": {
+  "label": "Iași",
+  "lat": 47.1622,
+  "lon": 27.5889
+ },
+ "chains": {
+  "kaufland": {
+   "name": "Kaufland",
+   "store": {
+    "id": "1413",
+    "name": "Kaufland Iasi Pavlov",
+    "address": "Str. Teodor Răşcanu, Nr. 6A",
+    "distanceKm": 1
+   },
+   "items": {
+    "wholegrain-bread": {
+     "product": "MOPAN PAINE GRAHAM FELIATA 400G",
+     "price": 5.15,
+     "grams": 400,
+     "perKg": 12.88,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "rye-bread": {
+     "product": "DOBROGEA PAINE DIN F. SECARA FEL. 400G",
+     "price": 3.29,
+     "grams": 400,
+     "perKg": 8.23,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "chicken-breast": {
+     "product": "P SABIN MUSCHIULET DIN PIEPT DE PUI",
+     "price": 29.99,
+     "grams": null,
+     "perKg": 29.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "chicken-thigh": {
+     "product": "FRAGEDO PULPE DE PUI DEZOSATE TAVA",
+     "price": 28.79,
+     "grams": null,
+     "perKg": 28.79,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "turkey-mince": {
+     "product": "PENES CARNE TOCATA DE CURCAN 500G",
+     "price": 15.99,
+     "grams": 500,
+     "perKg": 31.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pork-loin": {
+     "product": "COTLET DE PORC FARA OS VACUUM",
+     "price": 27.99,
+     "grams": null,
+     "perKg": 27.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pork-mince": {
+     "product": "VDR CARNE TOCATA DE PORC 1000G",
+     "price": 19.33,
+     "grams": 1000,
+     "perKg": 19.33,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "salmon": {
+     "product": "OF COZI SOMON FILE GASTRO",
+     "price": 53.8,
+     "grams": null,
+     "perKg": 53.8,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "smoked-salmon": {
+     "product": "KLC SOMON AFUMAT XXL 220 G",
+     "price": 25.99,
+     "grams": 220,
+     "perKg": 118.14,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "tuna": {
+     "product": "DEFISH TON BUCATI IN APA 170 G",
+     "price": 11.99,
+     "grams": 119,
+     "perKg": 100.76,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "skyr": {
+     "product": "KLC SKYR NATUR 0.2%500G",
+     "price": 8.79,
+     "grams": 500,
+     "perKg": 17.58,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "greek-yogurt": {
+     "product": "KLC IAURT IN STIL GRECESC 2% 1KG",
+     "price": 10.95,
+     "grams": 1000,
+     "perKg": 10.95,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cottage-cheese": {
+     "product": "DALBIS BRANZA DE VACI 0.5% 1KG",
+     "price": 20.99,
+     "grams": 1000,
+     "perKg": 20.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "telemea": {
+     "product": "P LACTO FRESH TELEMEA SEMISAR. VACA37%VR",
+     "price": 19.9,
+     "grams": null,
+     "perKg": 19.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "parmesan": {
+     "product": "K-GOLD GRANA PADANO32%16M 200G",
+     "price": 18.99,
+     "grams": 200,
+     "perKg": 94.95,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "butter": {
+     "product": "OUG ALINT UNT 82% 1KG",
+     "price": 34.99,
+     "grams": 1000,
+     "perKg": 34.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sour-cream": {
+     "product": "VDR SMANTANA 20% 400G",
+     "price": 6.15,
+     "grams": 400,
+     "perKg": 15.38,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "tofu": {
+     "product": "INEDIT TOFU FARA SARAMURA 4% 300G",
+     "price": 11.89,
+     "grams": 300,
+     "perKg": 39.63,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "oats": {
+     "product": "KLC FULGI FINI DE OVAZ 500G",
+     "price": 2.69,
+     "grams": 500,
+     "perKg": 5.38,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "rice": {
+     "product": "KLC OREZ BOB LUNG XXL 2 KG",
+     "price": 9.59,
+     "grams": 2000,
+     "perKg": 4.8,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pasta": {
+     "product": "KLC SPAGHETTI 100% GRAU DUR 600G XXL",
+     "price": 3.79,
+     "grams": 600,
+     "perKg": 6.32,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "rice-noodles": {
+     "product": "ASIA FOOD TAITEI OREZ VERMICELLI 500G",
+     "price": 17.99,
+     "grams": 500,
+     "perKg": 35.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "quinoa": {
+     "product": "PIRIFAN SEMINTE QUINOA ALBA 250 G",
+     "price": 13.99,
+     "grams": 250,
+     "perKg": 55.96,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cornmeal": {
+     "product": "VDR MALAI SUPERIOR 1KG",
+     "price": 2.19,
+     "grams": 1000,
+     "perKg": 2.19,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "red-lentils": {
+     "product": "KLC LINTE ROSIE 500 G",
+     "price": 5.29,
+     "grams": 500,
+     "perKg": 10.58,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "canned-tomatoes": {
+     "product": "VDR ROSII TOCATE 700G",
+     "price": 5.49,
+     "grams": 700,
+     "perKg": 7.84,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "tomato-paste": {
+     "product": "DELMARIO PASTA DE TOMATE 24% 800G",
+     "price": 9.85,
+     "grams": 800,
+     "perKg": 12.31,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "kidney-beans": {
+     "product": "KLC FASOLE ROSIE 420 G",
+     "price": 3.45,
+     "grams": 252,
+     "perKg": 13.69,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "white-beans": {
+     "product": "KLC FASOLE ALBA 850ML",
+     "price": 6.69,
+     "grams": 510,
+     "perKg": 13.12,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "black-beans": {
+     "product": "OGREEN FASOLE NEAGRA 400G",
+     "price": 6.99,
+     "grams": 240,
+     "perKg": 29.13,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "chickpeas": {
+     "product": "KLC NAUT 425ML",
+     "price": 2.99,
+     "grams": 255,
+     "perKg": 11.73,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "brown-lentils": {
+     "product": "K-CLASSIC LINTE 400 G",
+     "price": 3.75,
+     "grams": 264,
+     "perKg": 14.2,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "coconut-milk": {
+     "product": "ASIA TIME LAPTE COCOS 94% 400ML",
+     "price": 11.49,
+     "grams": 400,
+     "perKg": 28.73,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sweetcorn": {
+     "product": "KLC PORUMB DULCE 340 G",
+     "price": 4.99,
+     "grams": 286,
+     "perKg": 17.45,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sauerkraut": {
+     "product": "CONSERVFRUCT VARZA MURATA 680G",
+     "price": 8.99,
+     "grams": 680,
+     "perKg": 13.22,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "olives": {
+     "product": "DEFNE MASLINE NEGRE IN SARAMURA 900G",
+     "price": 9.99,
+     "grams": 513,
+     "perKg": 19.47,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "peanut-butter": {
+     "product": "KLC UNT DE ARAHIDE CREAMY 350G",
+     "price": 10.15,
+     "grams": 350,
+     "perKg": 29,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "honey": {
+     "product": "STROP DE SOARE MIERE POLIFLORA 900G",
+     "price": 22.49,
+     "grams": 900,
+     "perKg": 24.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "frozen-berries": {
+     "product": "P KLC AMESTEC FRUCTE DE PADURE 1000G",
+     "price": 26.99,
+     "grams": 1000,
+     "perKg": 26.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "frozen-peas": {
+     "product": "KLC MAZARE FINA 720ML",
+     "price": 4.59,
+     "grams": 720,
+     "perKg": 6.38,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "green-beans": {
+     "product": "CEGUSTO FASOLE VERDE 680G",
+     "price": 5.59,
+     "grams": 680,
+     "perKg": 8.22,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "edamame": {
+     "product": "KLC EDAMAME 3X212 ML",
+     "price": 11.49,
+     "grams": 636,
+     "perKg": 18.07,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cod": {
+     "product": "KLC FILE COD ALASKA 475G",
+     "price": 19.99,
+     "grams": 475,
+     "perKg": 42.08,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "shrimp": {
+     "product": "OF CREVETI INTREGI PREF.DECO.40/60GASTRO",
+     "price": 43.9,
+     "grams": null,
+     "perKg": 43.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "walnuts": {
+     "product": "MIEZ DE NUCA SFERTURI 500G",
+     "price": 24.99,
+     "grams": 500,
+     "perKg": 49.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "almonds": {
+     "product": "KLC MIGDALE GRANULATE 200 G",
+     "price": 11.99,
+     "grams": 200,
+     "perKg": 59.95,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "chia": {
+     "product": "K-BIO SEMINTE DE CHIA 300 G",
+     "price": 10.99,
+     "grams": 300,
+     "perKg": 36.63,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "olive-oil": {
+     "product": "KFJ ULEI MASLINE EXTRAVIRGIN 500ML",
+     "price": 25.39,
+     "grams": 460,
+     "perKg": 55.2,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sunflower-oil": {
+     "product": "CALUSAR ULEI FLOAREA SOARELUI 1L",
+     "price": 7.49,
+     "grams": 920,
+     "perKg": 8.14,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "soy-sauce": {
+     "product": "K-ASIA SOS SOIA CHINEZESC 250 ML",
+     "price": 6.49,
+     "grams": 287.5,
+     "perKg": 22.57,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "vinegar": {
+     "product": "KLC OTET DIN VIN ALB 500ML",
+     "price": 6.99,
+     "grams": 500,
+     "perKg": 13.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "paprika": {
+     "product": "COSMIN BOIA DULCE PLIC 100 G",
+     "price": 5.19,
+     "grams": 100,
+     "perKg": 51.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cumin": {
+     "product": "COSMIN CHIMION MACINAT 20G",
+     "price": 3.35,
+     "grams": 20,
+     "perKg": 167.5,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "curry-powder": {
+     "product": "KLC CURRY 45 G",
+     "price": 2.09,
+     "grams": 45,
+     "perKg": 46.44,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "oregano": {
+     "product": "GALEO OREGANO PLIC 10G",
+     "price": 2.79,
+     "grams": 10,
+     "perKg": 279,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "burger-buns": {
+     "product": "KLC CHIFLE HAMBURGER CU SUSAN 6X50G",
+     "price": 5.59,
+     "grams": 300,
+     "perKg": 18.63,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pita": {
+     "product": "DON DON LIPIE 160G",
+     "price": 1.89,
+     "grams": 160,
+     "perKg": 11.81,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "beef-steak": {
+     "product": "K-PURLAND PULPA DE VITA KG",
+     "price": 65.9,
+     "grams": null,
+     "perKg": 65.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "ham": {
+     "product": "GUSTOSO SUNCA MOZAIC 1 KG",
+     "price": 18.99,
+     "grams": 1000,
+     "perKg": 18.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "bacon": {
+     "product": "KLC BACON CUBULETE 2x125GR",
+     "price": 12.19,
+     "grams": 250,
+     "perKg": 48.76,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pepperoni": {
+     "product": "K-GOLD CHORIZO SPANIOL FIN 100 GR",
+     "price": 6.99,
+     "grams": 100,
+     "perKg": 69.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "milk": {
+     "product": "OUG VDR LAPTE 1.5% 1L",
+     "price": 4.39,
+     "grams": 1030,
+     "perKg": 4.26,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "mozzarella": {
+     "product": "KLC MOZZARELLA LIGHT 27% 125G/200G",
+     "price": 4.49,
+     "grams": 200,
+     "perKg": 22.45,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cheddar": {
+     "product": "K-GOLD CHEDDAR FELII 9 LUNI 50%175G",
+     "price": 11.99,
+     "grams": 175,
+     "perKg": 68.51,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "flour": {
+     "product": "TITAN FAINA 000 1KG",
+     "price": 2.39,
+     "grams": 1000,
+     "perKg": 2.39,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "egg-noodles": {
+     "product": "BANEASA TAITEI CUIBURI 4 OUA 200G",
+     "price": 4.99,
+     "grams": 200,
+     "perKg": 24.95,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cornstarch": {
+     "product": "KLC AMIDON DIN PORUMB 400G",
+     "price": 5.99,
+     "grams": 400,
+     "perKg": 14.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pickles": {
+     "product": "ALTCEVA CASTRAVETI IN OTET 6-9 CM 680G",
+     "price": 5.59,
+     "grams": 374,
+     "perKg": 14.95,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pineapple": {
+     "product": "KLC ANANAS BUCATI IN SIROP LIGHT 560G",
+     "price": 7.99,
+     "grams": 336,
+     "perKg": 23.78,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "ketchup": {
+     "product": "BENITA KETCHUP DULCE 1 KG",
+     "price": 6.99,
+     "grams": 1000,
+     "perKg": 6.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "mustard": {
+     "product": "DELICIOS MUSTAR DULCE 200 GR",
+     "price": 1.99,
+     "grams": 200,
+     "perKg": 9.95,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sesame-oil": {
+     "product": "KIKKOMAN ULEI DE SUSAN 125ML",
+     "price": 24.49,
+     "grams": 115,
+     "perKg": 212.96,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "chili-flakes": {
+     "product": "KLC BOIA DE ARDEI IUTE MACINATA 20 G",
+     "price": 0.99,
+     "grams": 20,
+     "perKg": 49.5,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "beef-chuck": {
+     "product": "VDR CARNE DE VITA PENTRU GULAS 500 G",
+     "price": 29.99,
+     "grams": 500,
+     "perKg": 59.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pork-shoulder": {
+     "product": "RO-SPATA DE PORC FARA OS INTREAGA",
+     "price": 24.99,
+     "grams": null,
+     "perKg": 24.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "smoked-sausage": {
+     "product": "CARNATI DE IARNA",
+     "price": 25.99,
+     "grams": null,
+     "perKg": 25.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cream": {
+     "product": "KLC SMANTANA PT FRISCA UHT 30% 200G",
+     "price": 5.49,
+     "grams": 200,
+     "perKg": 27.45,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "semolina": {
+     "product": "KLC GRIS DE GRAU 500G",
+     "price": 1.99,
+     "grams": 500,
+     "perKg": 3.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sugar": {
+     "product": "DELMARIO ZAHAR 1KG",
+     "price": 3.79,
+     "grams": 1000,
+     "perKg": 3.79,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "fish-sauce": {
+     "product": "HAT SOS DE PESTE 200 ML",
+     "price": 16.29,
+     "grams": 240,
+     "perKg": 67.87,
+     "promo": false,
+     "date": "28.10.2026"
+    }
+   }
+  },
+  "lidl": {
+   "name": "Lidl",
+   "store": {
+    "id": "3197",
+    "name": "Iasi/Chimiei",
+    "address": "Bld. Chimiei, nr. 2A",
+    "distanceKm": 1.56
+   },
+   "items": {
+    "tomato": {
+     "product": "Rosii Roma",
+     "price": 8.99,
+     "grams": null,
+     "perKg": 8.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cherry-tomato": {
+     "product": "Bio rosii cherry",
+     "price": 8.99,
+     "grams": 250,
+     "perKg": 35.96,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cucumber": {
+     "product": "Bio castraveti Fabio",
+     "price": 6.99,
+     "grams": 400,
+     "perKg": 17.48,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "onion": {
+     "product": "Ceapa alba",
+     "price": 5.99,
+     "grams": 500,
+     "perKg": 11.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "red-onion": {
+     "product": "Ceapa rosie",
+     "price": 2.39,
+     "grams": null,
+     "perKg": 2.39,
+     "promo": true,
+     "date": "28.10.2026"
+    },
+    "garlic": {
+     "product": "Usturoi",
+     "price": 16.49,
+     "grams": null,
+     "perKg": 16.49,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "carrot": {
+     "product": "Morcovi 2kg",
+     "price": 4.39,
+     "grams": 2000,
+     "perKg": 2.19,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "bell-pepper": {
+     "product": "Bio ardei gras rosu",
+     "price": 14.99,
+     "grams": 400,
+     "perKg": 37.48,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "broccoli": {
+     "product": "Broccoli Freshona",
+     "price": 6.59,
+     "grams": 450,
+     "perKg": 14.64,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "spinach": {
+     "product": "Spanac 400g",
+     "price": 8.99,
+     "grams": 400,
+     "perKg": 22.48,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "zucchini": {
+     "product": "Dovlecei",
+     "price": 9.99,
+     "grams": null,
+     "perKg": 9.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "potato": {
+     "product": "Cartofi albi",
+     "price": 2.29,
+     "grams": null,
+     "perKg": 2.29,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sweet-potato": {
+     "product": "Cartofi dulci",
+     "price": 9.99,
+     "grams": null,
+     "perKg": 9.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cabbage": {
+     "product": "Varza alba noua",
+     "price": 2.49,
+     "grams": null,
+     "perKg": 2.49,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "mushrooms": {
+     "product": "Ciuperci grill Champ",
+     "price": 16.49,
+     "grams": null,
+     "perKg": 16.49,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "apple": {
+     "product": "Mere golden ro CAL II",
+     "price": 2.99,
+     "grams": null,
+     "perKg": 2.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "banana": {
+     "product": "Banane",
+     "price": 6.99,
+     "grams": null,
+     "perKg": 6.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "lemon": {
+     "product": "Lamai",
+     "price": 8.99,
+     "grams": null,
+     "perKg": 8.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "avocado": {
+     "product": "Avocado Hass plasa",
+     "price": 14.99,
+     "grams": 700,
+     "perKg": 21.41,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "dill": {
+     "product": "Marar legatura",
+     "price": 1.49,
+     "grams": 50,
+     "perKg": 29.8,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "wholegrain-bread": {
+     "product": "Paine integrala Tastino",
+     "price": 3.99,
+     "grams": 500,
+     "perKg": 7.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "tortilla": {
+     "product": "Durum Wraps Tastino",
+     "price": 11.99,
+     "grams": 800,
+     "perKg": 14.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "chicken-breast": {
+     "product": "Piept de pui dezosat",
+     "price": 32.9,
+     "grams": 1000,
+     "perKg": 32.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "chicken-thigh": {
+     "product": "Pulpe pui dezosate",
+     "price": 12.29,
+     "grams": 650,
+     "perKg": 18.91,
+     "promo": true,
+     "date": "28.10.2026"
+    },
+    "turkey-mince": {
+     "product": "Carne tocata de curcan",
+     "price": 15.99,
+     "grams": 500,
+     "perKg": 31.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "beef-mince": {
+     "product": "Carne tocata vita",
+     "price": 18.29,
+     "grams": 500,
+     "perKg": 36.58,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pork-loin": {
+     "product": "Cotlet de porc f. os",
+     "price": 19.9,
+     "grams": 1000,
+     "perKg": 19.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pork-mince": {
+     "product": "Carne tocata porc",
+     "price": 19.29,
+     "grams": 1000,
+     "perKg": 19.29,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "salmon": {
+     "product": "Somon file Nixe",
+     "price": 12.29,
+     "grams": 190,
+     "perKg": 64.68,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "smoked-salmon": {
+     "product": "Somon afumat la rece Nautica",
+     "price": 25.99,
+     "grams": 200,
+     "perKg": 129.95,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "eggs": {
+     "product": "Oua marimea S cod 2",
+     "price": 27.99,
+     "grams": 1650,
+     "perKg": 16.96,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "skyr": {
+     "product": "Skyr Natur Pilos",
+     "price": 8.79,
+     "grams": 500,
+     "perKg": 17.58,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "greek-yogurt": {
+     "product": "Iaurt in stil grecesc Milbona",
+     "price": 11.15,
+     "grams": 1000,
+     "perKg": 11.15,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cottage-cheese": {
+     "product": "Branza de vaci 6% Pilos",
+     "price": 20.99,
+     "grams": 1000,
+     "perKg": 20.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "telemea": {
+     "product": "Telemea de vaca 40% Pilos",
+     "price": 13.75,
+     "grams": 400,
+     "perKg": 34.38,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "parmesan": {
+     "product": "Grana Padano DOP",
+     "price": 17.29,
+     "grams": 200,
+     "perKg": 86.45,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "butter": {
+     "product": "Unt german 82% grasime Pilos",
+     "price": 7.99,
+     "grams": 250,
+     "perKg": 31.96,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sour-cream": {
+     "product": "Smantana 20% 400g Pilos",
+     "price": 6.09,
+     "grams": 400,
+     "perKg": 15.23,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "soy-milk": {
+     "product": "Bautura Bio Soia Vemondo",
+     "price": 5.95,
+     "grams": 1030,
+     "perKg": 5.78,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "rice": {
+     "product": "Orez bob lung Golden Sun",
+     "price": 5.99,
+     "grams": 1000,
+     "perKg": 5.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pasta": {
+     "product": "Spaghete Tiradell",
+     "price": 2.49,
+     "grams": 500,
+     "perKg": 4.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cornmeal": {
+     "product": "Malai superior Belbake",
+     "price": 2.19,
+     "grams": 1000,
+     "perKg": 2.19,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "canned-tomatoes": {
+     "product": "Rosii tocate 6 Brix 400g Baresa",
+     "price": 3.99,
+     "grams": 425,
+     "perKg": 9.39,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "tomato-paste": {
+     "product": "Bulion 18 Brix Camara noastra",
+     "price": 7.59,
+     "grams": 750,
+     "perKg": 10.12,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "kidney-beans": {
+     "product": "Fasole rosie Freshona",
+     "price": 3.45,
+     "grams": 255,
+     "perKg": 13.53,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "white-beans": {
+     "product": "Fasole alba Freshona",
+     "price": 6.69,
+     "grams": 510,
+     "perKg": 13.12,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "chickpeas": {
+     "product": "Naut Freshona",
+     "price": 2.99,
+     "grams": 255,
+     "perKg": 11.73,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sweetcorn": {
+     "product": "Porumb (extra dulce) Freshona",
+     "price": 5.99,
+     "grams": 357,
+     "perKg": 16.78,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sauerkraut": {
+     "product": "Varza murata",
+     "price": 7.99,
+     "grams": 2000,
+     "perKg": 4,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "olives": {
+     "product": "Masline negre Baresa",
+     "price": 14.25,
+     "grams": 568,
+     "perKg": 25.09,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "peanut-butter": {
+     "product": "Unt arahide Maribel",
+     "price": 9.99,
+     "grams": 350,
+     "perKg": 28.54,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "tahini": {
+     "product": "Pasta de susan Kania",
+     "price": 9.49,
+     "grams": 300,
+     "perKg": 31.63,
+     "promo": true,
+     "date": "28.10.2026"
+    },
+    "honey": {
+     "product": "Miere poliflora",
+     "price": 22.49,
+     "grams": 900,
+     "perKg": 24.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "frozen-peas": {
+     "product": "Mazare verde Freshona",
+     "price": 4.59,
+     "grams": 690,
+     "perKg": 6.65,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "green-beans": {
+     "product": "Fasole verde taiata Freshona",
+     "price": 3.99,
+     "grams": 450,
+     "perKg": 8.87,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "edamame": {
+     "product": "Edamame diverse sort Vitasia",
+     "price": 8.99,
+     "grams": 400,
+     "perKg": 22.48,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cod": {
+     "product": "File de cod de Alaska MSC Ocean Sea",
+     "price": 24.99,
+     "grams": 800,
+     "perKg": 31.24,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "shrimp": {
+     "product": "Creveti intregi FRESH FISH TODAY",
+     "price": 32.49,
+     "grams": 500,
+     "perKg": 64.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "walnuts": {
+     "product": "Miez de nuca in vid",
+     "price": 27.99,
+     "grams": 500,
+     "perKg": 55.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "almonds": {
+     "product": "Migdale de California Belbake",
+     "price": 6.99,
+     "grams": 200,
+     "perKg": 34.95,
+     "promo": true,
+     "date": "28.10.2026"
+    },
+    "chia": {
+     "product": "Naturiva Chia",
+     "price": 12.99,
+     "grams": 250,
+     "perKg": 51.96,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "olive-oil": {
+     "product": "Ulei de masline extrav. Primadonna",
+     "price": 39.99,
+     "grams": 920,
+     "perKg": 43.47,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sunflower-oil": {
+     "product": "Ulei de floarea soarelui",
+     "price": 6.99,
+     "grams": 920,
+     "perKg": 7.6,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "soy-sauce": {
+     "product": "Sos de soia Kania",
+     "price": 7.39,
+     "grams": 287.5,
+     "perKg": 25.7,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "paprika": {
+     "product": "Boia de ardei dulce Kania",
+     "price": 1.49,
+     "grams": 30,
+     "perKg": 49.67,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "curry-powder": {
+     "product": "Curry Kania",
+     "price": 0.95,
+     "grams": 20,
+     "perKg": 47.5,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "oregano": {
+     "product": "Oregano maruntit Kania",
+     "price": 2.33,
+     "grams": 12,
+     "perKg": 194.17,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "ginger": {
+     "product": "Ghimbir",
+     "price": 13.99,
+     "grams": null,
+     "perKg": 13.99,
+     "promo": true,
+     "date": "28.10.2026"
+    },
+    "basil": {
+     "product": "Busuioc in ghiveci",
+     "price": 6.99,
+     "grams": 30,
+     "perKg": 233,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "eggplant": {
+     "product": "Vinete",
+     "price": 9.99,
+     "grams": null,
+     "perKg": 9.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cauliflower": {
+     "product": "Bio conopida",
+     "price": 9.99,
+     "grams": 800,
+     "perKg": 12.49,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "burger-buns": {
+     "product": "Chifle pentru hamburger Tastino",
+     "price": 5.79,
+     "grams": 300,
+     "perKg": 19.3,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pita": {
+     "product": "Lipie",
+     "price": 1.89,
+     "grams": 160,
+     "perKg": 11.81,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "ham": {
+     "product": "Sunca mozaic Baroni",
+     "price": 18.99,
+     "grams": 1000,
+     "perKg": 18.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "bacon": {
+     "product": "Bacon de porc Pikok",
+     "price": 13.19,
+     "grams": 300,
+     "perKg": 43.97,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pepperoni": {
+     "product": "Tapas de chorizo. feliat Dulano Selection",
+     "price": 8.99,
+     "grams": 100,
+     "perKg": 89.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "milk": {
+     "product": "Lapte proaspat 1.5% Pilos",
+     "price": 4.39,
+     "grams": 1030,
+     "perKg": 4.26,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "mozzarella": {
+     "product": "Mozzarella classic Milbona",
+     "price": 4.45,
+     "grams": 125,
+     "perKg": 35.6,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cheddar": {
+     "product": "Cheddar rosu Milbona",
+     "price": 14.79,
+     "grams": 250,
+     "perKg": 59.16,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "flour": {
+     "product": "Baneasa Faina alba grau",
+     "price": 5.99,
+     "grams": 1000,
+     "perKg": 5.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "egg-noodles": {
+     "product": "Taitei cu ou Combino",
+     "price": 7.75,
+     "grams": 500,
+     "perKg": 15.5,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cornstarch": {
+     "product": "Dr. Oetker Amidon Gustin",
+     "price": 0.89,
+     "grams": 30,
+     "perKg": 29.67,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pickles": {
+     "product": "Castraveti murati Freshona",
+     "price": 12.99,
+     "grams": 935,
+     "perKg": 13.89,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pineapple": {
+     "product": "Compot de ananas bucati",
+     "price": 5.89,
+     "grams": 348,
+     "perKg": 16.93,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cashews": {
+     "product": "Caju natur Alesto Selection",
+     "price": 31.99,
+     "grams": 500,
+     "perKg": 63.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "peanuts": {
+     "product": "Arahide praj. sarate",
+     "price": 7.99,
+     "grams": 500,
+     "perKg": 15.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "ketchup": {
+     "product": "Ketchup Kania",
+     "price": 6.99,
+     "grams": 1000,
+     "perKg": 6.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "mustard": {
+     "product": "Mustar Kania",
+     "price": 1.99,
+     "grams": 200,
+     "perKg": 9.95,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "chili-flakes": {
+     "product": "Boia de ardei iute Kania",
+     "price": 0.99,
+     "grams": 20,
+     "perKg": 49.5,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "celeriac": {
+     "product": "Telina",
+     "price": 3.49,
+     "grams": null,
+     "perKg": 3.49,
+     "promo": true,
+     "date": "28.10.2026"
+    },
+    "leek": {
+     "product": "Praz 500g",
+     "price": 7.99,
+     "grams": 500,
+     "perKg": 15.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "parsley": {
+     "product": "Patrunjel legatura",
+     "price": 1.49,
+     "grams": 50,
+     "perKg": 29.8,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "butternut": {
+     "product": "Dovleac Butternut",
+     "price": 8.99,
+     "grams": null,
+     "perKg": 8.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "jalapeno": {
+     "product": "Ardei iute peperoni mix",
+     "price": 5.99,
+     "grams": 100,
+     "perKg": 59.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pork-shoulder": {
+     "product": "Spata de porc f.os",
+     "price": 18.9,
+     "grams": 1000,
+     "perKg": 18.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "smoked-sausage": {
+     "product": "Carnati Silezia XXL Pikok",
+     "price": 29.9,
+     "grams": 1300,
+     "perKg": 23,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cream": {
+     "product": "Smantana 30% Milbona",
+     "price": 4.99,
+     "grams": 200,
+     "perKg": 24.95,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "semolina": {
+     "product": "Gris de grau Belbake",
+     "price": 1.99,
+     "grams": 500,
+     "perKg": 3.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sugar": {
+     "product": "Zahar Bod",
+     "price": 3.79,
+     "grams": 1000,
+     "perKg": 3.79,
+     "promo": false,
+     "date": "28.10.2026"
+    }
+   }
+  },
+  "carrefour": {
+   "name": "Carrefour",
+   "store": {
+    "id": "552",
+    "name": "CARREFOUR IASI",
+    "address": "Str. Bucium, nr. 36, IASI",
+    "distanceKm": 2.52
+   },
+   "items": {
+    "tomato": {
+     "product": "ROSII GRADINA 500G RO",
+     "price": 6.99,
+     "grams": 500,
+     "perKg": 13.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cherry-tomato": {
+     "product": "ROSII CHERRY ROTUNDE RO",
+     "price": 16.99,
+     "grams": null,
+     "perKg": 16.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cucumber": {
+     "product": "BIO CASTRAVETI BUCATA",
+     "price": 7.99,
+     "grams": 400,
+     "perKg": 19.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "onion": {
+     "product": "CEAPA GALBENA 1KG CRF RO",
+     "price": 3.49,
+     "grams": 1000,
+     "perKg": 3.49,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "red-onion": {
+     "product": "CEAPA ROSIE 1KG CRF",
+     "price": 4.99,
+     "grams": 1000,
+     "perKg": 4.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "garlic": {
+     "product": "USTUROI 500G RO",
+     "price": 11.99,
+     "grams": 500,
+     "perKg": 23.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "carrot": {
+     "product": "MORCOVI RO",
+     "price": 2.99,
+     "grams": null,
+     "perKg": 2.99,
+     "promo": true,
+     "date": "28.10.2026"
+    },
+    "bell-pepper": {
+     "product": "ARDEI KAPIA VERDE RO",
+     "price": 5.49,
+     "grams": null,
+     "perKg": 5.49,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "broccoli": {
+     "product": "BROCCOLI 400GR BONDUELLE",
+     "price": 7.29,
+     "grams": 400,
+     "perKg": 18.23,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "spinach": {
+     "product": "SPANAC TOCAT 1.33 KG EDENIA",
+     "price": 18.29,
+     "grams": 1330,
+     "perKg": 13.75,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "zucchini": {
+     "product": "DOVLECEI ROTUNZI RO",
+     "price": 4.99,
+     "grams": null,
+     "perKg": 4.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "potato": {
+     "product": "CARTOFI ROSII IMPORT",
+     "price": 3.49,
+     "grams": null,
+     "perKg": 3.49,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sweet-potato": {
+     "product": "CARTOFI DULCI",
+     "price": 7.99,
+     "grams": null,
+     "perKg": 7.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cabbage": {
+     "product": "VARZA ALBA IMP",
+     "price": 2.49,
+     "grams": null,
+     "perKg": 2.49,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "mushrooms": {
+     "product": "CIUPERCI CUTIE 400G CRF CLS",
+     "price": 5.99,
+     "grams": 400,
+     "perKg": 14.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "apple": {
+     "product": "MERE GALA RO",
+     "price": 4.99,
+     "grams": null,
+     "perKg": 4.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "banana": {
+     "product": "BANANE.",
+     "price": 6.99,
+     "grams": null,
+     "perKg": 6.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "lemon": {
+     "product": "LAMAI NETRATATE POSTRECOLTA 50",
+     "price": 7.99,
+     "grams": null,
+     "perKg": 7.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "avocado": {
+     "product": "AVOCADO HASS PLASA 700G",
+     "price": 15.99,
+     "grams": 700,
+     "perKg": 22.84,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "spring-onion": {
+     "product": "CEAPA VERDE LEGATURA RO",
+     "price": 1.99,
+     "grams": 100,
+     "perKg": 19.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "dill": {
+     "product": "MARAR LEGATURA RO",
+     "price": 1.49,
+     "grams": 50,
+     "perKg": 29.8,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "wholegrain-bread": {
+     "product": "PAINE CU SECARA INTEGRALA500G",
+     "price": 4.19,
+     "grams": 500,
+     "perKg": 8.38,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "rye-bread": {
+     "product": "PAINE CU SECARA INTEGRALA500G",
+     "price": 4.19,
+     "grams": 500,
+     "perKg": 8.38,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "tortilla": {
+     "product": "TORTIL WRAPX10 620G CRF SENSAT",
+     "price": 13.99,
+     "grams": 620,
+     "perKg": 22.56,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "chicken-breast": {
+     "product": "PIEPT PUI DEZOSAT SIMPL",
+     "price": 29.9,
+     "grams": null,
+     "perKg": 29.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "chicken-thigh": {
+     "product": "PULPE PUI DEZOSATE SIMPL",
+     "price": 24.9,
+     "grams": null,
+     "perKg": 24.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "beef-mince": {
+     "product": "CARNE TOCATA VITA LS",
+     "price": 46.9,
+     "grams": null,
+     "perKg": 46.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pork-loin": {
+     "product": "COTLET PORC FARA OS,BUCATA LS",
+     "price": 27.9,
+     "grams": null,
+     "perKg": 27.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pork-mince": {
+     "product": "CARNE TOCATA PORC LS",
+     "price": 19.3,
+     "grams": null,
+     "perKg": 19.3,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "salmon": {
+     "product": "FILE SOMON ATM  ASC 200G",
+     "price": 21.99,
+     "grams": 200,
+     "perKg": 109.95,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "smoked-salmon": {
+     "product": "FILE DE SOMON AFUMAT140G",
+     "price": 18.19,
+     "grams": 140,
+     "perKg": 129.93,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "tuna": {
+     "product": "TON BUC APA 185G SIBLOU",
+     "price": 15.19,
+     "grams": 130,
+     "perKg": 116.85,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "eggs": {
+     "product": "OUA ALBE M*30 COD 2 SIMPL",
+     "price": 29.99,
+     "grams": 1650,
+     "perKg": 18.18,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "greek-yogurt": {
+     "product": "IAURT STIL GRECESC 5.4%GR 130G",
+     "price": 2.79,
+     "grams": 130,
+     "perKg": 21.46,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cottage-cheese": {
+     "product": "BRANZA DE VACI DOROLACT",
+     "price": 22.9,
+     "grams": null,
+     "perKg": 22.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "telemea": {
+     "product": "TELEMEA DE VACA PASCAL",
+     "price": 21.9,
+     "grams": null,
+     "perKg": 21.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "parmesan": {
+     "product": "GRANA PADANO RASA 100G CRF",
+     "price": 10.59,
+     "grams": 100,
+     "perKg": 105.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "butter": {
+     "product": "UNT 82% GRAS 200G CRF CLASIC",
+     "price": 6.39,
+     "grams": 200,
+     "perKg": 31.95,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sour-cream": {
+     "product": "SMANTANA 20%GR 200G CRF CLASIC",
+     "price": 3.49,
+     "grams": 200,
+     "perKg": 17.45,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "soy-milk": {
+     "product": "BAUTURA SOIA NATUR 1L ALPRO",
+     "price": 13.99,
+     "grams": 1030,
+     "perKg": 13.58,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "tofu": {
+     "product": "TOFU INDIAN 300G CRF BIO",
+     "price": 18.99,
+     "grams": 300,
+     "perKg": 63.3,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "hummus": {
+     "product": "HUMMUS  140GR IBERITOS",
+     "price": 10.99,
+     "grams": 140,
+     "perKg": 78.5,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "oats": {
+     "product": "FULGI OVAZ 500G CRF ORIG",
+     "price": 5.59,
+     "grams": 500,
+     "perKg": 11.18,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "rice": {
+     "product": "RISO SCOTTI OREZ  USOR DE GAT",
+     "price": 7.79,
+     "grams": null,
+     "perKg": 7.79,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pasta": {
+     "product": "SPAGHETE 400G CRF CLASIC",
+     "price": 1.99,
+     "grams": 400,
+     "perKg": 4.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "rice-noodles": {
+     "product": "TAITEI DIN OREZ 300G VIFON",
+     "price": 10.49,
+     "grams": 300,
+     "perKg": 34.97,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "couscous": {
+     "product": "CUSCUS SEMICOMPL. 500G CRF BIO",
+     "price": 9.89,
+     "grams": 500,
+     "perKg": 19.78,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "quinoa": {
+     "product": "QUINOA 150 G DAUCY",
+     "price": 6.29,
+     "grams": 150,
+     "perKg": 41.93,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cornmeal": {
+     "product": "MALAI  1KG TITAN",
+     "price": 2.85,
+     "grams": 1000,
+     "perKg": 2.85,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "red-lentils": {
+     "product": "LINTE ROSIE VRAC",
+     "price": 8.99,
+     "grams": null,
+     "perKg": 8.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "canned-tomatoes": {
+     "product": "ROSII TOCATE 690G DRAG DE ROMA",
+     "price": 6.39,
+     "grams": 690,
+     "perKg": 9.26,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "tomato-paste": {
+     "product": "BULION 18% 580 GR CRF CLASSIC",
+     "price": 5.85,
+     "grams": 580,
+     "perKg": 10.09,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "kidney-beans": {
+     "product": "FASOLE ROSIE 400G CRF CLASSIC",
+     "price": 3.45,
+     "grams": 240,
+     "perKg": 14.38,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "white-beans": {
+     "product": "FASOLE ALBA BOABE 800G CARREF",
+     "price": 6.79,
+     "grams": 480,
+     "perKg": 14.15,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "black-beans": {
+     "product": "FASOLE NEAGRA 400G OGREEN",
+     "price": 6.39,
+     "grams": 240,
+     "perKg": 26.63,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "chickpeas": {
+     "product": "NAUT 400GR MAXIM",
+     "price": 4.79,
+     "grams": 240,
+     "perKg": 19.96,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "brown-lentils": {
+     "product": "LINTE 800 G DAUCY",
+     "price": 14.49,
+     "grams": 528,
+     "perKg": 27.44,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "coconut-milk": {
+     "product": "LAPTE DE COCOS 400MLAMPAWA",
+     "price": 9.89,
+     "grams": 400,
+     "perKg": 24.73,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sweetcorn": {
+     "product": "PORUMB DULCE BOABE 400G SIMPL",
+     "price": 4.39,
+     "grams": 336,
+     "perKg": 13.07,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sauerkraut": {
+     "product": "VARZA MURATA RO DDR",
+     "price": 7.99,
+     "grams": null,
+     "perKg": 7.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "olives": {
+     "product": "MASLINE NEGRE ATLAS YUNUS",
+     "price": 22.9,
+     "grams": null,
+     "perKg": 22.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "peanut-butter": {
+     "product": "UNT ARAHIDE 340G MAXIM",
+     "price": 11.99,
+     "grams": 340,
+     "perKg": 35.26,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "tahini": {
+     "product": "PASTA DE SUSAN 454G",
+     "price": 29.49,
+     "grams": 454,
+     "perKg": 64.96,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "honey": {
+     "product": "MIERE POLIFLORA 900G",
+     "price": 17.49,
+     "grams": 900,
+     "perKg": 19.43,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "frozen-berries": {
+     "product": "FRUCTE DE PADURE 450G EDENIA",
+     "price": 27.99,
+     "grams": 450,
+     "perKg": 62.2,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "frozen-peas": {
+     "product": "MAZARE VERDE SEMI-FINA680G CRF",
+     "price": 5.65,
+     "grams": 680,
+     "perKg": 8.31,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "green-beans": {
+     "product": "FASOLE VERDE 690G RAURENI",
+     "price": 9.39,
+     "grams": 690,
+     "perKg": 13.61,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "edamame": {
+     "product": "EDAMAME PASTAI 500G GRLD",
+     "price": 22.19,
+     "grams": 500,
+     "perKg": 44.38,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cod": {
+     "product": "TRUNCHI COD ARGINTIU",
+     "price": 26.4,
+     "grams": null,
+     "perKg": 26.4,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "shrimp": {
+     "product": "CREVETI CRUZI 40/50 ATM",
+     "price": 40.9,
+     "grams": null,
+     "perKg": 40.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "walnuts": {
+     "product": "MIEZ NUCA VRAC CRF",
+     "price": 49.99,
+     "grams": null,
+     "perKg": 49.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "almonds": {
+     "product": "MIGDALE CRUDE 1KG SIMPL",
+     "price": 54.99,
+     "grams": 1000,
+     "perKg": 54.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "chia": {
+     "product": "SEMINTE CHIA  200G",
+     "price": 9.99,
+     "grams": 200,
+     "perKg": 49.95,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "olive-oil": {
+     "product": "ULEI DE MASLINE EV 500ML KFJ",
+     "price": 25.39,
+     "grams": 460,
+     "perKg": 55.2,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "soy-sauce": {
+     "product": "SOS SOIA TAMARI (GLUTEN FREE)",
+     "price": 16.99,
+     "grams": null,
+     "perKg": 16.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "paprika": {
+     "product": "BOIA DULCE 100G  COSMIN",
+     "price": 5.19,
+     "grams": 100,
+     "perKg": 51.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cumin": {
+     "product": "CHIMION MACINAT 50G DAABOUL",
+     "price": 6.29,
+     "grams": 50,
+     "perKg": 125.8,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "curry-powder": {
+     "product": "CURRY FR 31G CRF BIO",
+     "price": 6.49,
+     "grams": 31,
+     "perKg": 209.35,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "oregano": {
+     "product": "OREGANO MARUNTIT 10G",
+     "price": 0.89,
+     "grams": 10,
+     "perKg": 89,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "ginger": {
+     "product": "GHIMBIR",
+     "price": 16.99,
+     "grams": null,
+     "perKg": 16.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "basil": {
+     "product": "BUSUIOC GHIVECI CRF RO",
+     "price": 5.99,
+     "grams": 30,
+     "perKg": 199.67,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "eggplant": {
+     "product": "BIO VINETE BUCATA",
+     "price": 11.99,
+     "grams": null,
+     "perKg": 11.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cauliflower": {
+     "product": "CONOPIDA IMPORT",
+     "price": 11.99,
+     "grams": null,
+     "perKg": 11.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "burger-buns": {
+     "product": "CHIFLA HAMBURGER300G QUICKBURY",
+     "price": 11.99,
+     "grams": 300,
+     "perKg": 39.97,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pita": {
+     "product": "LIPIE MULTICER.245G MISSION",
+     "price": 10.65,
+     "grams": null,
+     "perKg": 10.65,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "ham": {
+     "product": "SUNCA PREMIUM HIGH PROTEIN 650",
+     "price": 32.99,
+     "grams": null,
+     "perKg": 32.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "bacon": {
+     "product": "BACON FIERT AF FEL100G CRF",
+     "price": 5.59,
+     "grams": 100,
+     "perKg": 55.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pepperoni": {
+     "product": "SALAM PEPPERONI 350G CRIS-TIM",
+     "price": 25.99,
+     "grams": 350,
+     "perKg": 74.26,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "milk": {
+     "product": "LAPTE UHT 1.5%GR 1L CRF CLASIC",
+     "price": 4.75,
+     "grams": 1030,
+     "perKg": 4.61,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "mozzarella": {
+     "product": "MOZZARELLA FIOR DI LATTE 125G",
+     "price": 4.49,
+     "grams": 125,
+     "perKg": 35.92,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cheddar": {
+     "product": "CHEDDAR CALUP MUNTE LACT",
+     "price": 49.9,
+     "grams": null,
+     "perKg": 49.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "flour": {
+     "product": "FAINA 000 BOROMIR 1KG",
+     "price": 2.69,
+     "grams": 1000,
+     "perKg": 2.69,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "egg-noodles": {
+     "product": "NOODLES CHINEZESTI 250CARREFOU",
+     "price": 10.49,
+     "grams": null,
+     "perKg": 10.49,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cornstarch": {
+     "product": "AMIDON ALIMENTAR 200G GUSTIN",
+     "price": 3.89,
+     "grams": 200,
+     "perKg": 19.45,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pickles": {
+     "product": "CASTRAVETI OTET670G CRF CLASIC",
+     "price": 7.09,
+     "grams": 369,
+     "perKg": 19.21,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pineapple": {
+     "product": "COMPOT ANANAS BUCATI 565GHOMEG",
+     "price": 9.99,
+     "grams": 339,
+     "perKg": 29.47,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cashews": {
+     "product": "CAJU PRAJIT SARE 300G CRF",
+     "price": 19.59,
+     "grams": 300,
+     "perKg": 65.3,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "peanuts": {
+     "product": "ARAHIDE DECOJITE CRUDE 500G CR",
+     "price": 13.99,
+     "grams": 500,
+     "perKg": 27.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "ketchup": {
+     "product": "KETCHUP DULCE 500G SIMPL",
+     "price": 5.45,
+     "grams": 500,
+     "perKg": 10.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "mustard": {
+     "product": "MUSTAR MASA 175G SIMPL",
+     "price": 1.75,
+     "grams": 175,
+     "perKg": 10,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sesame-oil": {
+     "product": "ULEI SUSAN 250ML MARASCA SOLA",
+     "price": 21.49,
+     "grams": 230,
+     "perKg": 93.43,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "chili-flakes": {
+     "product": "BOIA ARDEI IUTE 17G",
+     "price": 0.95,
+     "grams": 17,
+     "perKg": 55.88,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "celeriac": {
+     "product": "TELINA RADACINA IMPORT",
+     "price": 3.89,
+     "grams": null,
+     "perKg": 3.89,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "leek": {
+     "product": "PRAZ RO",
+     "price": 8.49,
+     "grams": null,
+     "perKg": 8.49,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cilantro": {
+     "product": "CORIANDRU GHIVECI CRF RO",
+     "price": 5.99,
+     "grams": 30,
+     "perKg": 199.67,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "butternut": {
+     "product": "DOVLEAC PT COPT RO",
+     "price": 2.49,
+     "grams": null,
+     "perKg": 2.49,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "jalapeno": {
+     "product": "ARDEI IUTE RO",
+     "price": 11.99,
+     "grams": null,
+     "perKg": 11.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pork-shoulder": {
+     "product": "SPATA DEZ PORC PARLIT VID",
+     "price": 24.9,
+     "grams": null,
+     "perKg": 24.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "smoked-sausage": {
+     "product": "CARNATI GOSPODARESTI 600G SCAR",
+     "price": 15.5,
+     "grams": 600,
+     "perKg": 25.83,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cream": {
+     "product": "SMANTANA 30% DOROLACT",
+     "price": 26.4,
+     "grams": null,
+     "perKg": 26.4,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "semolina": {
+     "product": "GRIS GRAU 500G CLASSIC",
+     "price": 1.99,
+     "grams": 500,
+     "perKg": 3.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sugar": {
+     "product": "ZAHAR ALB 500GR DIAMANT",
+     "price": 3.59,
+     "grams": 500,
+     "perKg": 7.18,
+     "promo": false,
+     "date": "28.10.2026"
+    }
+   }
+  },
+  "mega": {
+   "name": "Mega Image",
+   "store": {
+    "id": "6421",
+    "name": "MI INDEPENDENTEI IS",
+    "address": "BD. INDEPENDENTEI NR. 33, BL.",
+    "distanceKm": 0.46
+   },
+   "items": {
+    "tomato": {
+     "product": "ROSII CAL1 RO",
+     "price": 7.99,
+     "grams": null,
+     "perKg": 7.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cherry-tomato": {
+     "product": "ROSII CHERRY 250G IMP.",
+     "price": 9.99,
+     "grams": 250,
+     "perKg": 39.96,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cucumber": {
+     "product": "CASTRAVETI FABIO BUC CAL1 IMP",
+     "price": 3.99,
+     "grams": 400,
+     "perKg": 9.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "onion": {
+     "product": "GUST RO CEAPA GALBENA CAL2",
+     "price": 2.29,
+     "grams": null,
+     "perKg": 2.29,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "red-onion": {
+     "product": "GUST RO CEAPA ROSIE CAL2",
+     "price": 2.99,
+     "grams": null,
+     "perKg": 2.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "garlic": {
+     "product": "USTUROI GUST RO CAL1",
+     "price": 16.49,
+     "grams": null,
+     "perKg": 16.49,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "carrot": {
+     "product": "GUST RO MORCOVI CAL2",
+     "price": 3.29,
+     "grams": null,
+     "perKg": 3.29,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "bell-pepper": {
+     "product": "GUST RO ARDEI KAPIA ROSU CAL2",
+     "price": 9.99,
+     "grams": null,
+     "perKg": 9.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "broccoli": {
+     "product": "BROCCOLI CAL1 RO",
+     "price": 18.99,
+     "grams": null,
+     "perKg": 18.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "spinach": {
+     "product": "GUSTONA SPANAC FRUNZE  NTREGI 450G",
+     "price": 5.59,
+     "grams": 450,
+     "perKg": 12.42,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "potato": {
+     "product": "GUST RO CARTOFI ALBI  CAL1",
+     "price": 2.29,
+     "grams": null,
+     "perKg": 2.29,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sweet-potato": {
+     "product": "CARTOFI DULCI CAL1 IMP",
+     "price": 8.68,
+     "grams": null,
+     "perKg": 8.68,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cabbage": {
+     "product": "GUST RO VARZA ALBA CAL1",
+     "price": 2.49,
+     "grams": null,
+     "perKg": 2.49,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "mushrooms": {
+     "product": "CIUPERCI AMB 1KG.",
+     "price": 18.29,
+     "grams": 1000,
+     "perKg": 18.29,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "apple": {
+     "product": "MERE GOLDEN AMB 1.5KG RO",
+     "price": 7.99,
+     "grams": 1500,
+     "perKg": 5.33,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "banana": {
+     "product": "BANANE CAL 1",
+     "price": 7.49,
+     "grams": null,
+     "perKg": 7.49,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "lemon": {
+     "product": "LAMAI CAL1 IMP",
+     "price": 8.99,
+     "grams": null,
+     "perKg": 8.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "avocado": {
+     "product": "MEGA AVOCADO 700G IMP.",
+     "price": 16.99,
+     "grams": 700,
+     "perKg": 24.27,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "spring-onion": {
+     "product": "CEAPA VERDE LEG GUST RO",
+     "price": 1.99,
+     "grams": 100,
+     "perKg": 19.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "dill": {
+     "product": "MARAR GUST RO CAL1",
+     "price": 1.49,
+     "grams": 50,
+     "perKg": 29.8,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "wholegrain-bread": {
+     "product": "PANIFCOM PAINE GRAHAM FELIATA 500G",
+     "price": 7.49,
+     "grams": 500,
+     "perKg": 14.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "rye-bread": {
+     "product": "VEL PITAR PAINE CU SECARA FEL 500G",
+     "price": 6.69,
+     "grams": 500,
+     "perKg": 13.38,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "chicken-breast": {
+     "product": "MEGA PIEPT PUI DEZOSAT CAS",
+     "price": 33.99,
+     "grams": null,
+     "perKg": 33.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "turkey-mince": {
+     "product": "GR CARNE TOCATA CURCAN DIN PULPA KG",
+     "price": 47.99,
+     "grams": null,
+     "perKg": 47.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "beef-mince": {
+     "product": "GR CARNE TOCATA VITA",
+     "price": 50.99,
+     "grams": null,
+     "perKg": 50.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pork-loin": {
+     "product": "GR COTLET PORC  FARA OS PACHET MARE",
+     "price": 34.99,
+     "grams": null,
+     "perKg": 34.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pork-mince": {
+     "product": "GR CARNE TOCATA PORC",
+     "price": 20.99,
+     "grams": null,
+     "perKg": 20.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "salmon": {
+     "product": "FM FILEURI DE SOMON DE PACIFIC 250G",
+     "price": 21.99,
+     "grams": 250,
+     "perKg": 87.96,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "smoked-salmon": {
+     "product": "MEGA SOMON AFUMAT FELIAT 100G",
+     "price": 13.29,
+     "grams": 100,
+     "perKg": 132.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "eggs": {
+     "product": "GR OUA COD 1 S 20BUC",
+     "price": 24.99,
+     "grams": 1100,
+     "perKg": 22.72,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cottage-cheese": {
+     "product": "MIRDATOD BRANZA VACI IBANESTI G450G",
+     "price": 16.08,
+     "grams": 450,
+     "perKg": 35.73,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "telemea": {
+     "product": "GR TELEMEA VACA 350G",
+     "price": 16.29,
+     "grams": 350,
+     "perKg": 46.54,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "parmesan": {
+     "product": "DLL PARMEZAN PARMIGIANO.REG RAS100G",
+     "price": 15.99,
+     "grams": 100,
+     "perKg": 159.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "butter": {
+     "product": "ALBALACT UNT 82% 200G",
+     "price": 9.99,
+     "grams": 200,
+     "perKg": 49.95,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sour-cream": {
+     "product": "CASA BUNA SMANTANA20%370G",
+     "price": 9.79,
+     "grams": 370,
+     "perKg": 26.46,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "soy-milk": {
+     "product": "NP BIO BAUTURA SOIA UHT 1L",
+     "price": 5.94,
+     "grams": 1030,
+     "perKg": 5.77,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "tofu": {
+     "product": "NP TOFU SIMPLU KG",
+     "price": 24.99,
+     "grams": null,
+     "perKg": 24.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "hummus": {
+     "product": "ZEIN HUMUS KG",
+     "price": 42.99,
+     "grams": null,
+     "perKg": 42.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "oats": {
+     "product": "NP BIO FULGI DE OVAZ FINI 500G",
+     "price": 6.29,
+     "grams": 500,
+     "perKg": 12.58,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "rice": {
+     "product": "RISO SCOTTI OREZ BUN PENTRU SARM1KG",
+     "price": 11.69,
+     "grams": 1000,
+     "perKg": 11.69,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pasta": {
+     "product": "WM PASTE PENNE RIGATE 500G",
+     "price": 3.99,
+     "grams": 500,
+     "perKg": 7.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "couscous": {
+     "product": "PANZANI CUSCUS 500G",
+     "price": 8.79,
+     "grams": 500,
+     "perKg": 17.58,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "quinoa": {
+     "product": "SANO VITA QUINOA ALBA 250G",
+     "price": 15.29,
+     "grams": 250,
+     "perKg": 61.16,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cornmeal": {
+     "product": "BANEASA MALAI 1KG",
+     "price": 3.99,
+     "grams": 1000,
+     "perKg": 3.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "canned-tomatoes": {
+     "product": "GR ROSII TOCATE 700G",
+     "price": 7.99,
+     "grams": 700,
+     "perKg": 11.41,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "tomato-paste": {
+     "product": "GR BULION 18% 700G",
+     "price": 8.99,
+     "grams": 700,
+     "perKg": 12.84,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "kidney-beans": {
+     "product": "GUSTONA FASOLE ROSIE BOABE 400G",
+     "price": 3.45,
+     "grams": 240,
+     "perKg": 14.38,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "white-beans": {
+     "product": "GUSTONA FASOLE ALBA IN SARAM400G",
+     "price": 3.59,
+     "grams": 240,
+     "perKg": 14.96,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "chickpeas": {
+     "product": "GUSTONA NAUT IN SARAMURA 400G",
+     "price": 2.99,
+     "grams": 240,
+     "perKg": 12.46,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "brown-lentils": {
+     "product": "GUSTONA LINTE IN SARAMURA 400G",
+     "price": 3.69,
+     "grams": 264,
+     "perKg": 13.98,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "coconut-milk": {
+     "product": "DESIAM LAPTE DE COCOS 400ML",
+     "price": 18.89,
+     "grams": 400,
+     "perKg": 47.23,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sweetcorn": {
+     "product": "GUSTONA PORUMB DULCE BOABE 340G",
+     "price": 4.99,
+     "grams": 286,
+     "perKg": 17.45,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sauerkraut": {
+     "product": "VARZA MURATA GUST RO 2KG",
+     "price": 15.99,
+     "grams": 2000,
+     "perKg": 8,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "olives": {
+     "product": "AMA MASLINE NEGRE SUPER COLOSAL KG",
+     "price": 20.29,
+     "grams": null,
+     "perKg": 20.29,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "tahini": {
+     "product": "JERUSALEM TAHINI PREMIUM 250G",
+     "price": 21.99,
+     "grams": 250,
+     "perKg": 87.96,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "honey": {
+     "product": "GR MIERE POLIFLORA 900G",
+     "price": 29.99,
+     "grams": 900,
+     "perKg": 33.32,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "frozen-peas": {
+     "product": "GUSTONA MAZARE VERDE 400G",
+     "price": 4.49,
+     "grams": 400,
+     "perKg": 11.23,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "walnuts": {
+     "product": "MIEZ DE NUCA AMB 330G IMP/RO",
+     "price": 24.49,
+     "grams": 330,
+     "perKg": 74.21,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "olive-oil": {
+     "product": "WM ULEI MASLINE EXTRAVIRGIN 1L",
+     "price": 67.49,
+     "grams": 920,
+     "perKg": 73.36,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sunflower-oil": {
+     "product": "BUNICA ULEI FLOAREA SOARELUI 1L",
+     "price": 8.99,
+     "grams": 920,
+     "perKg": 9.77,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "paprika": {
+     "product": "MEGA BOIA DULCE 17G",
+     "price": 2.19,
+     "grams": 17,
+     "perKg": 128.82,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cumin": {
+     "product": "KAMIS CHIMION MACINAT 15G",
+     "price": 4.69,
+     "grams": 15,
+     "perKg": 312.67,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "oregano": {
+     "product": "KAMIS OREGANO 10G",
+     "price": 4.49,
+     "grams": 10,
+     "perKg": 449,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "lettuce": {
+     "product": "SALATA VERDE GUST RO CAL1",
+     "price": 3.49,
+     "grams": 300,
+     "perKg": 11.63,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "ginger": {
+     "product": "GHIMBIR CAL1 IMP",
+     "price": 17.99,
+     "grams": null,
+     "perKg": 17.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "basil": {
+     "product": "NP BUSUIOC 30G.",
+     "price": 5.99,
+     "grams": 30,
+     "perKg": 199.67,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cauliflower": {
+     "product": "CONOPIDA CAL1 IMP",
+     "price": 9.99,
+     "grams": null,
+     "perKg": 9.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "burger-buns": {
+     "product": "EP CHIFLA BURGER BRIOCHE 4X60G",
+     "price": 11,
+     "grams": 240,
+     "perKg": 45.83,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pita": {
+     "product": "SIMID PITA BALCANICA MAIA 12X50G",
+     "price": 10,
+     "grams": 600,
+     "perKg": 16.67,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "beef-steak": {
+     "product": "GR PULPA VITA",
+     "price": 63.99,
+     "grams": null,
+     "perKg": 63.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "ham": {
+     "product": "KOKET MINI SUNCA PRAGA 350G",
+     "price": 12.29,
+     "grams": 350,
+     "perKg": 35.11,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "bacon": {
+     "product": "MEGA BACON AFUMAT CUBULETE 250G",
+     "price": 15.29,
+     "grams": 250,
+     "perKg": 61.16,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pepperoni": {
+     "product": "EXCELLENT CHORIZO EXTRA 75G",
+     "price": 7.99,
+     "grams": 75,
+     "perKg": 106.53,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "milk": {
+     "product": "ALB LAPTE SEMIDEGRESAT UHT 1.5% 1L",
+     "price": 4.74,
+     "grams": 1030,
+     "perKg": 4.6,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "mozzarella": {
+     "product": "MEGA MOZZARELLA 125G",
+     "price": 6.19,
+     "grams": 125,
+     "perKg": 49.52,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cheddar": {
+     "product": "KERRYGOLD BRANZA CHEDDAR ROSU 200G",
+     "price": 24.09,
+     "grams": 200,
+     "perKg": 120.45,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "flour": {
+     "product": "MEGA FAINA ALBA DE GRAU 650 1KG",
+     "price": 2.84,
+     "grams": 1000,
+     "perKg": 2.84,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pickles": {
+     "product": "MEGA CASTRAVETI OTET6/9CM680G",
+     "price": 8.19,
+     "grams": 374,
+     "perKg": 21.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pineapple": {
+     "product": "GUSTONA ANANAS BUCATI IN SIROP 565G",
+     "price": 10.99,
+     "grams": 339,
+     "perKg": 32.42,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "ketchup": {
+     "product": "MEGA KETCHUP DULCE 550G",
+     "price": 8.69,
+     "grams": 550,
+     "perKg": 15.8,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "mustard": {
+     "product": "MEGA MUSTAR DIN TECUCI CLASIC 300G",
+     "price": 4.79,
+     "grams": 300,
+     "perKg": 15.97,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "chili-flakes": {
+     "product": "MEGA BOIA IUTE 17G",
+     "price": 2.19,
+     "grams": 17,
+     "perKg": 128.82,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "celeriac": {
+     "product": "GUST RO TELINA CAL1",
+     "price": 4.99,
+     "grams": null,
+     "perKg": 4.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "leek": {
+     "product": "GUST RO PRAZ CAL1",
+     "price": 8.49,
+     "grams": null,
+     "perKg": 8.49,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "parsley": {
+     "product": "MEGA PATRUNJEL 250G RO.",
+     "price": 5.19,
+     "grams": 250,
+     "perKg": 20.76,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cilantro": {
+     "product": "MEGA CORIANDRU AMB 15G.",
+     "price": 3.99,
+     "grams": 15,
+     "perKg": 266,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "butternut": {
+     "product": "DOVLEAC ROTUND PT COPT CAL1 RO",
+     "price": 2.49,
+     "grams": null,
+     "perKg": 2.49,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "jalapeno": {
+     "product": "ARDEI IUTE GUST RO CAL1",
+     "price": 9.99,
+     "grams": null,
+     "perKg": 9.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pork-shoulder": {
+     "product": "GR CEAFA PORC FARA OS PACHET MARE",
+     "price": 34.99,
+     "grams": null,
+     "perKg": 34.99,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "smoked-sausage": {
+     "product": "KOKET CARNATI MUNTENIA KG",
+     "price": 25.29,
+     "grams": null,
+     "perKg": 25.29,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cream": {
+     "product": "GR SMANTANA 30% 300G",
+     "price": 9.69,
+     "grams": 300,
+     "perKg": 32.3,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "semolina": {
+     "product": "MEGA GRIS 500G",
+     "price": 3.59,
+     "grams": 500,
+     "perKg": 7.18,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sugar": {
+     "product": "MEGA ZAHAR ALB CRISTAL 1KG",
+     "price": 3.99,
+     "grams": 1000,
+     "perKg": 3.99,
+     "promo": false,
+     "date": "28.10.2026"
+    }
+   }
+  },
+  "selgros": {
+   "name": "Selgros",
+   "store": {
+    "id": "2599",
+    "name": "Selgros  Iași",
+    "address": "Șos. Nicolina, nr.57A",
+    "distanceKm": 3.47
+   },
+   "items": {
+    "wholegrain-bread": {
+     "product": "VEL PITAR PAINE GRAHAM FELIATA 500G",
+     "price": 6.82,
+     "grams": 500,
+     "perKg": 13.64,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "rye-bread": {
+     "product": "PANIFCOM PAINE NEAGRA FELIATA SECARA 500G",
+     "price": 6.47,
+     "grams": 500,
+     "perKg": 12.94,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "tortilla": {
+     "product": "MISSION DURUM TORTILLAS 1620G \"",
+     "price": 26.11,
+     "grams": 1620,
+     "perKg": 16.12,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "tuna": {
+     "product": "SIBLOU TON BUCATI IN APA 185G \"",
+     "price": 13.64,
+     "grams": 130,
+     "perKg": 104.92,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "eggs": {
+     "product": "AGRICOLA OUA COD 3 CLASA L 2X30BUC",
+     "price": 1.24,
+     "grams": 110,
+     "perKg": 11.27,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "greek-yogurt": {
+     "product": "ZUZU DIVIN IAURT NATURAL IN STIL GRECESC 2% 150G",
+     "price": 3.19,
+     "grams": 150,
+     "perKg": 21.27,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cottage-cheese": {
+     "product": "OLYMPUS BRANZA DE VACI 6% 1KG \"",
+     "price": 23.14,
+     "grams": 1000,
+     "perKg": 23.14,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "telemea": {
+     "product": "SOLOMONESCU TELEMEA DIN LAPTE DE VACA 400G",
+     "price": 13.69,
+     "grams": 400,
+     "perKg": 34.23,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "parmesan": {
+     "product": "SAN SEBASTIANO GRANA PADANO BRANZA DURA RAZUITA 1KG",
+     "price": 101.28,
+     "grams": 1000,
+     "perKg": 101.28,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "butter": {
+     "product": "MONOR UNT 82% 200G \"",
+     "price": 7.29,
+     "grams": 200,
+     "perKg": 36.45,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sour-cream": {
+     "product": "TRANSGOURMET QUALITY SMANTANA 20% GRASIME 900 G",
+     "price": 12.96,
+     "grams": 900,
+     "perKg": 14.4,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "soy-milk": {
+     "product": "ALPRO BAUTURA SOIA F.ZAHAR 1L \"",
+     "price": 12.69,
+     "grams": 1030,
+     "perKg": 12.32,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "tofu": {
+     "product": "INEDIT TOFU MARAR 300G \"",
+     "price": 10.12,
+     "grams": 300,
+     "perKg": 33.73,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "oats": {
+     "product": "PIRIFAN FULGI DE OVAZ 500G \"",
+     "price": 7.2,
+     "grams": 500,
+     "perKg": 14.4,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "rice": {
+     "product": "ATIFCO OREZ PREMIUM BOB LUNG 1KG",
+     "price": 7.1,
+     "grams": 1000,
+     "perKg": 7.1,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pasta": {
+     "product": "TOPSELLER SPAGHETE 400G \"",
+     "price": 2.35,
+     "grams": 400,
+     "perKg": 5.88,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "rice-noodles": {
+     "product": "ASIAN FLAVOURS TAITEI DIN OREZ 400G",
+     "price": 16.1,
+     "grams": 400,
+     "perKg": 40.25,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "quinoa": {
+     "product": "D`AUCY QUINOA 150G \"",
+     "price": 4.98,
+     "grams": 150,
+     "perKg": 33.2,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cornmeal": {
+     "product": "TRANSGOURMET ECONOMY MALAI 1KG \"",
+     "price": 2.14,
+     "grams": 1000,
+     "perKg": 2.14,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "red-lentils": {
+     "product": "TRANSGOURMET QUALITY LINTE ROSIE 1KG",
+     "price": 12.5,
+     "grams": 1000,
+     "perKg": 12.5,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "canned-tomatoes": {
+     "product": "GAROM ROSII INTREGI DECOJITE 2500G",
+     "price": 22,
+     "grams": 2500,
+     "perKg": 8.8,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "tomato-paste": {
+     "product": "D`ALE GURII BULION 18% 680G \"",
+     "price": 8.33,
+     "grams": 680,
+     "perKg": 12.25,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "kidney-beans": {
+     "product": "HOME GARDEN FASOLE ROSIE 400G \"",
+     "price": 4.5,
+     "grams": 240,
+     "perKg": 18.75,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "white-beans": {
+     "product": "HOME GARDEN FASOLE ALBA 570G \"",
+     "price": 4.98,
+     "grams": 342,
+     "perKg": 14.56,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "black-beans": {
+     "product": "OGREEN FASOLE BOABE NEAGRA 400G",
+     "price": 5.99,
+     "grams": 240,
+     "perKg": 24.96,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "chickpeas": {
+     "product": "MAXIM`S NAUT 400G \"",
+     "price": 4,
+     "grams": 240,
+     "perKg": 16.67,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "brown-lentils": {
+     "product": "D`AUCY LINTE 310G \"",
+     "price": 6.69,
+     "grams": 205,
+     "perKg": 32.63,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "coconut-milk": {
+     "product": "TRANSGOURMET QUALITY LAPTE DE COCOS 1L",
+     "price": 25.35,
+     "grams": 1000,
+     "perKg": 25.35,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sweetcorn": {
+     "product": "GLOBUS PORUMB DULCE 400G \"",
+     "price": 4.9,
+     "grams": 336,
+     "perKg": 14.58,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sauerkraut": {
+     "product": "CONSERVFRUCT VARZA MURATA 680G \"",
+     "price": 7.19,
+     "grams": 680,
+     "perKg": 10.57,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "olives": {
+     "product": "DEFNE MASLINE NEGRE 900G",
+     "price": 12.62,
+     "grams": 513,
+     "perKg": 24.6,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "peanut-butter": {
+     "product": "GINA UNT DE ARAHIDE 350G \"",
+     "price": 29.73,
+     "grams": 350,
+     "perKg": 84.94,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "tahini": {
+     "product": "OLYMP TAHINI 900G \"",
+     "price": 46.63,
+     "grams": 900,
+     "perKg": 51.81,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "honey": {
+     "product": "TRANSGOURMET QUALITY MIERE POLIFLORA 400G",
+     "price": 9.51,
+     "grams": 400,
+     "perKg": 23.78,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "frozen-peas": {
+     "product": "KLEVA MAZARE BOABE DE GRADINA 670G",
+     "price": 6.62,
+     "grams": 670,
+     "perKg": 9.88,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "green-beans": {
+     "product": "KLEVA FASOLE VERDE TAIATA 680G \"",
+     "price": 5.08,
+     "grams": 680,
+     "perKg": 7.47,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "walnuts": {
+     "product": "ORLANDO MIEZ NUCA EXTRA 1KG \"",
+     "price": 61.9,
+     "grams": 1000,
+     "perKg": 61.9,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "almonds": {
+     "product": "TRANSGOURMET QUALITY MIGDALE CRUDE 750G",
+     "price": 49.64,
+     "grams": 750,
+     "perKg": 66.19,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "chia": {
+     "product": "PIRIFAN SEMINTE CHIA 150G \"",
+     "price": 8.49,
+     "grams": 150,
+     "perKg": 56.6,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "olive-oil": {
+     "product": "TRANSGOURMET ECONOMY ULEI DE MASLINE EXTRA VIRGIN PET 1L",
+     "price": 38.85,
+     "grams": 920,
+     "perKg": 42.23,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sunflower-oil": {
+     "product": "EVRIKA ULEI DE FLOAREA SOARELUI 1L",
+     "price": 7.99,
+     "grams": 920,
+     "perKg": 8.68,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "soy-sauce": {
+     "product": "MAGGI SOS DE SOIA CLASIC 190ML \"",
+     "price": 11.19,
+     "grams": 218.49999999999997,
+     "perKg": 51.21,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "vinegar": {
+     "product": "D`ALE GURII OTET DIN VIN SI ZAHARURI 1L",
+     "price": 4.65,
+     "grams": 1000,
+     "perKg": 4.65,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "paprika": {
+     "product": "COLONIAL BOIA DULCE 100G \"",
+     "price": 3.14,
+     "grams": 100,
+     "perKg": 31.4,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cumin": {
+     "product": "HAZI ARANY CHIMION MACINAT 20G",
+     "price": 2.5,
+     "grams": 20,
+     "perKg": 125,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "curry-powder": {
+     "product": "FUCHS CURRY 200G \"",
+     "price": 21.99,
+     "grams": 200,
+     "perKg": 109.95,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "oregano": {
+     "product": "FUCHS OREGANO 65G \"",
+     "price": 15.78,
+     "grams": 65,
+     "perKg": 242.77,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "burger-buns": {
+     "product": "PATILINE CHIFLA HAMBURGER CU SUSAN  90G",
+     "price": 1.79,
+     "grams": 90,
+     "perKg": 19.89,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pita": {
+     "product": "TRANSGOURMET QUALITY LIPIE LIBANEZA 700G",
+     "price": 6.01,
+     "grams": 700,
+     "perKg": 8.59,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "milk": {
+     "product": "TRANSGOURMET QUALITY LAPTE DE CONSUM SEMID. 1.5% GRASIME 1 L",
+     "price": 4.63,
+     "grams": 1030,
+     "perKg": 4.5,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "mozzarella": {
+     "product": "GALBANI MOZZARELLA 3X125G \"",
+     "price": 8.37,
+     "grams": 375,
+     "perKg": 22.32,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cheddar": {
+     "product": "VERGEER CHEDDAR ROSU FELII 1KG \"",
+     "price": 54.27,
+     "grams": 1000,
+     "perKg": 54.27,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "flour": {
+     "product": "TRANSGOURMET ECONOMY FAINA ALBA DE GRAU TIP 650 1KG",
+     "price": 2.14,
+     "grams": 1000,
+     "perKg": 2.14,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "egg-noodles": {
+     "product": "VANCSA TAITEI LATI CU 4 OUA 400G",
+     "price": 5.89,
+     "grams": 400,
+     "perKg": 14.72,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cornstarch": {
+     "product": "COLONIAL AMIDON CARTOFI 2KG \"",
+     "price": 23.87,
+     "grams": 2000,
+     "perKg": 11.94,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pickles": {
+     "product": "KLEVA CASTRAVETI IN OTET 600G \"",
+     "price": 5.83,
+     "grams": 330,
+     "perKg": 17.67,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "pineapple": {
+     "product": "D`ALE GURII COMPOT ANANAS FELII 565G",
+     "price": 8.32,
+     "grams": 339,
+     "perKg": 24.54,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cashews": {
+     "product": "TOPSELLER CAJU CRUD 200G \"",
+     "price": 12.19,
+     "grams": 200,
+     "perKg": 60.95,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "peanuts": {
+     "product": "GUSTO ARAHIDE PRAJITE SI SARATE 500G",
+     "price": 10.07,
+     "grams": 500,
+     "perKg": 20.14,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "ketchup": {
+     "product": "TRANSGOURMET ECONOMY KETCHUP DULCE 500G",
+     "price": 4.38,
+     "grams": 500,
+     "perKg": 8.76,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "mustard": {
+     "product": "TRANSGOURMET ECONOMY MUSTAR DULCE 500G",
+     "price": 4.7,
+     "grams": 500,
+     "perKg": 9.4,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sesame-oil": {
+     "product": "SOLARIS ULEI SUSAN 250ML \"",
+     "price": 36.99,
+     "grams": 230,
+     "perKg": 160.83,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "chili-flakes": {
+     "product": "CIO CHILI FULGI 50G \"",
+     "price": 4.63,
+     "grams": 50,
+     "perKg": 92.6,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "cream": {
+     "product": "TRANSGOURMET QUALITY SMANTANA 32% GRASIME 900 G",
+     "price": 24.09,
+     "grams": 900,
+     "perKg": 26.77,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "semolina": {
+     "product": "D`ALE GURII GRIS DIN GRAU 500G \"",
+     "price": 2.15,
+     "grams": 500,
+     "perKg": 4.3,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "sugar": {
+     "product": "TRANSGOURMET QUALITY ZAHAR ALB 1KG",
+     "price": 4.4,
+     "grams": 1000,
+     "perKg": 4.4,
+     "promo": false,
+     "date": "28.10.2026"
+    },
+    "fish-sauce": {
+     "product": "HOUSE OF ASIA SOS DE PESTE 200ML",
+     "price": 14.95,
+     "grams": 240,
+     "perKg": 62.29,
+     "promo": false,
+     "date": "28.10.2026"
+    }
+   }
+  }
+ }
+}
