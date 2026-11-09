@@ -1299,7 +1299,7 @@ export const EVERYDAY: Recipe[] = [
       en: 'Vanilla skyr and oat milkshake',
       ro: 'Milkshake cu skyr, ovăz și vanilie',
     },
-    lines: [['milk', 250], ['skyr', 100], ['oats', 15], ['honey', 6]],
+    lines: [['milk', 250], ['skyr', 100], ['oats', 20], ['honey', 6]],
     extras: [
       { en: 'a few drops of vanilla extract', ro: 'câteva picături de esență de vanilie' },
       { en: 'a pinch of ground cinnamon', ro: 'un praf de scorțișoară măcinată' },
@@ -1308,13 +1308,13 @@ export const EVERYDAY: Recipe[] = [
     ],
     steps: {
       en: [
-        'Blend the oats on their own until powdery.',
-        'Add 250 ml cold milk, skyr, 1 tsp (6 g) honey, vanilla, cinnamon and a pinch of salt and blend for 30 seconds until frothy — or shake hard in a closed jar for a minute.',
+        'Put the oats and 250 ml cold milk in the blender and let them soak for 2 minutes.',
+        'Add the skyr, 1 tsp (6 g) honey, vanilla, cinnamon and a pinch of salt and blend for 30 seconds until smooth and frothy.',
         'Pour over a few ice cubes and drink straight away.',
       ],
       ro: [
-        'Mixează ovăzul singur până devine pudră.',
-        'Adaugă 250 ml lapte rece, skyr-ul, 1 linguriță (6 g) miere, vanilia, scorțișoara și un praf de sare și mixează 30 de secunde, până face spumă — sau agită bine un minut într-un borcan închis.',
+        'Pune ovăzul și 250 ml lapte rece în blender și lasă-le să se înmoaie 2 minute.',
+        'Adaugă skyr-ul, 1 linguriță (6 g) miere, vanilia, scorțișoara și un praf de sare și mixează 30 de secunde, până devine cremoasă și face spumă.',
         'Toarnă peste câteva cuburi de gheață și bea imediat.',
       ],
     },

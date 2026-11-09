@@ -96,12 +96,13 @@ export const MORE_EUROPE: Recipe[] = [
     extras: [
       { en: 'salt and black pepper', ro: 'sare și piper' },
       { en: 'a pinch of salt in the beaten egg', ro: 'o șiță de sare în ou' },
+      { en: 'a pinch of cayenne pepper', ro: 'un vârf de cayenne' },
       { en: 'breadcrumbs — if you can’t find them: 25 g wholegrain bread, toasted and blitzed to fine crumbs', ro: 'pesmet — dacă nu găsești: 25 g pâine integrală, prăjită și mărunțită fin' },
     ],
     steps: {
       en: [
         'Peel the potatoes, cut them into wedges and toss them with 8 g (about 1½ tsp, 7 ml) of the oil, salt and a little pepper. Roast at 220 °C for 30 minutes, turning once.',
-        'Meanwhile split the chicken breast horizontally into two thin cutlets. Put them between sheets of cling film and flatten them with a rolling pin to about 5 mm. Season both sides with salt and pepper.',
+        'Meanwhile split the chicken breast horizontally into two thin cutlets. Put them between sheets of cling film and flatten them with a rolling pin to about 5 mm. Season both sides with salt, pepper and a pinch of cayenne.',
         'Set out three plates: flour on the first, the egg beaten with a pinch of salt on the second, the breadcrumbs on the third.',
         'Dust each cutlet in flour, dip it in the egg and press it into the crumbs on both sides.',
         'Heat the remaining 15 g (about 1 tbsp, 15 ml) of oil in a wide pan over medium heat. Fry the cutlets 3 to 4 minutes per side until golden and cooked through (74 °C inside).',
@@ -109,7 +110,7 @@ export const MORE_EUROPE: Recipe[] = [
       ],
       ro: [
         'Curăță cartofii, taie-i în pene și amestecă-i cu 8 g (cam 1½ linguriță, 7 ml) de ulei, sare și puțin piper. Coace-i la 220 °C timp de 30 de minute, întorcându-i o dată.',
-        'Între timp taie pieptul de pui orizontal în două fileuri subțiri. Pune-le între folii de plastic și întinde-le cu sucitorul până au cam 5 mm. Sărează și piperează ambele părți.',
+        'Între timp taie pieptul de pui orizontal în două fileuri subțiri. Pune-le între folii de plastic și întinde-le cu sucitorul până au cam 5 mm. Sărează, piperează și presară puțin cayenne pe ambele părți.',
         'Pregătește trei farfurii: făina pe prima, oul bătut cu o șiță de sare pe a doua, pesmetul pe a treia.',
         'Trece fiecare file prin făină, apoi prin ou și apasă-l în fărâmituri pe ambele părți.',
         'Încinge restul de 15 g (cam 1 lingură, 15 ml) de ulei într-o tigaie largă, la foc mediu. Prăjește fileurile 3–4 minute pe fiecare parte, până devin aurii și sunt bine făcute (74 °C în interior).',

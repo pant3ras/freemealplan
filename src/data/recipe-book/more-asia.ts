@@ -955,15 +955,15 @@ export const MORE_ASIA: Recipe[] = [
     ],
     steps: {
       en: [
-        'Slice the beef into thin strips and season with a little soy sauce (about 1 tsp) and the sesame oil (4 g, ¾ tsp). Chop the cabbage into large pieces. Crush the garlic. Slice the onion and spring onion.',
-        'Put the beef and onion in a pot with the water. Bring to the boil, skim off the scum, then simmer gently for 20 minutes.',
+        'Slice the beef into thin strips and season with a little soy sauce (about 1 tsp). Chop the cabbage into large pieces. Crush the garlic. Slice the onion and spring onion.',
+        'Heat the sesame oil (4 g, ¾ tsp) in a pot and fry the beef and onion for 2 minutes, until the beef is browned. Add the water, bring to the boil, skim off the scum, then simmer gently for 10 minutes.',
         'Add the cabbage and garlic and simmer for another 10–15 minutes, until the cabbage is soft and the beef is tender.',
         'Season with the rest of the soy sauce, salt and pepper to taste.',
         'Ladle into bowls and scatter with the spring onion.',
       ],
       ro: [
-        'Taie vita în fâșii subțiri și condimentează cu puțin sos de soia (cam 1 linguriță) și ulei de susan (cam ¾ de linguriță). Taie varza în bucăți mari. Zdrobește usturoiul. Taie ceapa și ceapa verde.',
-        'Pune vita și ceapa într-o oală cu apa. Adu la fierbere, îndepărtează spuma, apoi fierbe ușor 20 de minute.',
+        'Taie vita în fâșii subțiri și condimentează cu puțin sos de soia (cam 1 linguriță). Taie varza în bucăți mari. Zdrobește usturoiul. Taie ceapa și ceapa verde.',
+        'Încălzește uleiul de susan (4 g, cam ¾ de linguriță) într-o oală și prăjește vita și ceapa 2 minute, până vita se rumenește. Adaugă apa, adu la fierbere, îndepărtează spuma, apoi fierbe ușor 10 minute.',
         'Adaugă varza și usturoiul și mai fierbe 10–15 minute, până varza se înmoaie și vita e fragedă.',
         'Condimentează cu restul de sos de soia, sare și piper, după gust.',
         'Servește în boluri și presară ceapa verde.',
